@@ -1,0 +1,4796 @@
+/* ------------------------------------------------- Large Screen. 1200 ---------------------------------------------------*/
+@media (min-width: 1440px) and (max-width: 1800px) {
+}
+/* ------------------------------------------------- Large Screen. 1200 ---------------------------------------------------*/
+@media (min-width: 1200px) and (max-width: 1440px) {
+  .poket-header-top {
+    padding: 10px 15px;
+  }
+  .psylogy_nav_area,
+  .trp_nav_area,
+  .transprent-menu .psylogy_nav_area {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+  .psylogy-header-top {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+  .text-left .witr_swiper_content h1,
+  .text-left .witr_swiper_content h2,
+  .text-left .witr_swiper_content h3,
+  .text-left .witr_swipers_title h4,
+  .text-right .witr_swiper_content h1,
+  .text-right .witr_swiper_content h2,
+  .text-right .witr_swiper_content h3,
+  .text-right .witr_swipers_title h4 {
+    width: 74%;
+  }
+  .poket_nav_area,
+  .trp_nav_area .container-fluid,
+  .transprent-menu .poket_nav_area .container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .poket_menu > ul > li > a {
+    margin: 38px 10px;
+    font-size: 17px;
+  }
+  .witr_containers {
+    width: 93%;
+  }
+  .witr_sw_text_area {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .text-left .em_slider_s2_content {
+    margin-right: 10%;
+  }
+  .text-right .em_slider_s2_content {
+    margin-left: 10%;
+  }
+  .em_sc_100 {
+    margin-top: 15px;
+  }
+  .em_slider_s2_image_inner img {
+    width: 100%;
+  }
+  .text-right .witr_slider_thumb {
+    left: -320px;
+  }
+  .text-left .witr_slider_thumb {
+    right: -225px;
+  }
+  .em_slider_s2_image img {
+    width: 60%;
+  }
+  .psylogy_menu > ul > li > a {
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+  .text-left .witrscontainer h1,
+  .text-left .witrscontainer h2,
+  .text-left .witrscontainer h3,
+  .text-left .witr_slicks_title h4,
+  .text-left .witrscontainer p {
+    width: 51%;
+  }
+  .text-right .witrscontainer h1,
+  .text-right .witrscontainer h2,
+  .text-right .witrscontainer h3,
+  .text-right .witr_slicks_title h4,
+  .text-right .witrscontainer p {
+    width: 51%;
+  }
+  .witr_ds_content_inner p {
+    width: 55%;
+  }
+  .witr_swiper_area .text-left .slider_vd_icon {
+    right: 12%;
+  }
+  /* feature area css */
+  .home2_feature_area {
+    padding: 120px 0 0;
+  }
+  .psylogy_installation_feature_area .feature_inner {
+    margin-top: 0;
+    padding: 95px 30px 80px;
+  }
+  .feature_area2 {
+    margin: 0 50px;
+  }
+  .slick-prev {
+    left: 0px;
+  }
+  .slick-next {
+    right: 0px;
+  }
+  .port_3column .witr_section_title_inner p {
+    width: 70%;
+  }
+  .psylogy_project_area .slick-next,
+  .psylogy_project_area .slick-prev {
+    top: 390px !important;
+  }
+  .psylogy_project_area .slick-next {
+    right: 520px !important;
+  }
+  .psylogy_project_area .slick-prev {
+    left: 525px !important;
+  }
+  .left_content_inner {
+    margin-left: 0;
+  }
+  .port_4column .witr_section_title_inner p {
+    width: 64%;
+  }
+  .netl_project_area {
+    padding: 0 30px;
+  }
+  .psylogy_portfolio_area .witr_section_title_inner p {
+    width: 64%;
+  }
+  .prot_content h3 a {
+    font-size: 20px;
+  }
+  .psylogy_about_area .witr_shape_item_inner {
+    top: -260px;
+    right: -190px;
+  }
+  .autocar_tab_area .witr_shape_item_inner {
+    left: -300px;
+  }
+  .psylogy_serv_area {
+    padding: 0 15px 60px 15px;
+  }
+  .psylogy_contact_area {
+    margin: -70px 0px 0 0px;
+  }
+  .psylogy_team_area .witr_shape_item_inner {
+    top: -200px;
+    left: -355px;
+  }
+  .psylogy_test_area .witr_shape_item_inner {
+    top: -135px;
+    right: -415px;
+  }
+  .psylogy_brand_area {
+    padding: 0 30px 0 30px;
+  }
+  .carousel_imagess_area {
+    padding: 55px 30px 65px 30px;
+  }
+  .psylogy_blog_area .witr_shape_item_inner {
+    left: -300px;
+  }
+  .h2_project_area {
+    padding: 0;
+  }
+  .h2_project_area .ps1 .witr_single_pslide:hover .witr_content_pslide_text {
+    bottom: 120px;
+  }
+  .h3_project_area {
+    padding: 0 70px 10px 70px;
+  }
+  .tab_middle_ser .service-item {
+    padding: 0;
+  }
+  .h2_test_area .witr_shape_item_inner {
+    left: -230px;
+  }
+  .h2_test_witr_shap .witr_shape_item_inner {
+    right: -190px;
+    left: auto;
+  }
+  .h2_video_area {
+    margin: 0 50px 0 50px;
+    padding: 150px 0 150px 0;
+    margin-top: -150px;
+  }
+  .h3_feat_witr .text_box {
+    padding: 0;
+  }
+  .h3_feat_witr {
+    margin: 0;
+  }
+  .h3_feature_area .witr_shape_item_inner {
+    left: -305px;
+  }
+  .h3_about_area .witr_shape_item_inner {
+    right: -230px;
+  }
+  .h3_test_area .witr_shape_item_inner {
+    right: -10px;
+  }
+  .h3_team_left {
+    padding: 0 15px 0 15px;
+  }
+  .h3_team_witr {
+    padding: 0;
+  }
+  .h3_team_area .witr_shape_item_inner {
+    left: -455px;
+  }
+  .h3_brand_area {
+    padding: 65px 30px 90px 30px;
+  }
+  .h3_brand_area .witr_shape_item_inner {
+    right: -215px;
+  }
+  .h3_video_left {
+    padding: 125px 40px 130px 40px;
+  }
+  .h4_brand_area {
+    padding: 0 60px 0 60px;
+  }
+  .h4_brand_inner {
+    padding: 53px 60px 68px 60px;
+  }
+  .black_bg {
+    background: #000;
+    padding: 115px 30px;
+  }
+}
+/* ------------------------------------------------- Large Screen. 1025 ---------------------------------------------------*/
+@media (min-width: 1025px) and (max-width: 1800px) {
+}
+/* ------------------------------------------------- Large Screen. 1024 ---------------------------------------------------*/
+@media (min-width: 1024px) and (max-width: 1600px) {
+  .em-nivo-slider-wrapper:hover .nivo-directionNav a {
+    left: 5px;
+  }
+  .em-nivo-slider-wrapper:hover .nivo-directionNav .nivo-nextNav {
+    right: 5px;
+  }
+  /* banner area css */
+  .witr_banner_content.text-right {
+    margin-right: 20px;
+  }
+  .witr_banner_content p {
+    width: 60%;
+  }
+  .em_slider_social {
+    top: 45%;
+  }
+}
+/* ------------------------------------------------- Laptop Screen 1366 ---------------------------------------------------*/
+@media (min-width: 1170px) and (max-width: 1366px) {
+  .em_creative_header:after {
+    transform: rotate(-114deg);
+  }
+  .creative_header_address {
+    padding-left: 0;
+  }
+  /* banner area css */
+  .witr_banner_content p {
+    width: 70%;
+  }
+}
+/* ------------------------------------------------- Old Desktop :1365-1660 ---------------------------------------------------*/
+@media (min-width: 1365px) and (max-width: 1660px) {
+  /* New Top Menu css */
+  .psylogy_nav_area,
+  .psylogy-header-top {
+    padding-right: 250px !important;
+    padding-left: 250px !important;
+  }
+  #scrollUp {
+    right: 30px;
+  }
+  /* swiper slider */
+  .witr_swiper_area .text-right .witr_slider_thumb {
+    left: -95px !important;
+  }
+  .witr_swiper_area .text-left .witr_slider_thumb {
+    right: -95px !important;
+  }
+  .witr_swiper_height {
+    width: 100% !important;
+  }
+  .w_slider_3 .witr_swiper_height {
+    width: 100% !important;
+    transform: translateX(-50%) !important;
+    left: 15%;
+  }
+  /*======== slick slider ==========*/
+  .witr_ds_content {
+    height: 980px !important;
+  }
+}
+/* ------------------------------------------------- Old Desktop :992 ---------------------------------------------------*/
+@media (min-width: 992px) and (max-width: 1364px) {
+  .play-overlay {
+    top: 50% !important;
+    left: 50% !important;
+  }
+  .map_main iframe {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+}
+/* ------------------------------------------------- Old Desktop :992 ---------------------------------------------------*/
+@media (min-width: 992px) and (max-width: 1199px) {
+  .psylogy_menu > ul > li > a {
+    margin: 35px 5px 35px 5px;
+  }
+  .psylogy-header-top {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  /* New Top Menu css */
+  .poket-header-top {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .psylogy_nav_area,
+  .trp_nav_area,
+  .transprent-menu .psylogy_nav_area {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .text-left .witr_swiper_content h1,
+  .text-left .witr_swiper_content h2,
+  .text-left .witr_swiper_content h3,
+  .text-left .witr_swipers_title h4,
+  .text-right .witr_swiper_content h1,
+  .text-right .witr_swiper_content h2,
+  .text-right .witr_swiper_content h3,
+  .text-right .witr_swipers_title h4 {
+    width: 81%;
+  }
+  .poket_menu > ul > li > a {
+    margin: 38px 6px;
+    font-size: 14px;
+  }
+  /* breadcumb area css */
+  .witr_ds_content_inner h2,
+  .witr_ds_content_inner h3 {
+    font-size: 52px;
+  }
+  /* .text-left .witr_ds_content_inner h1,
+  .text-left .witr_ds_content_inner h2,
+  .text-left .witr_ds_content_inner h3,
+  .text-left .witr_slicks_title h4 {
+    width: 60%;
+  } */
+  .h5_swiper .text-left .witr_ds_content_inner h1,
+  .h5_swiper .text-left .witr_ds_content_inner h2,
+  .h5_swiper .text-left .witr_ds_content_inner h3,
+  .h5_swiper .text-left .witr_slicks_title h4 {
+    width: 75%;
+  }
+  .h5_swiper .witr_ds_content_inner h2 {
+    font-size: 60px;
+  }
+  .witr_containers {
+    width: 93%;
+  }
+  .hmenu_box_style .psylogy_menu > ul > li > a {
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+  .em_creative_header::before {
+    width: 19%;
+  }
+  .em_creative_header::after {
+    display: none;
+  }
+  .witr_ds_content_inner p {
+    width: 50%;
+  }
+  .witr_sw_text_area {
+    width: 90%;
+  }
+  .witr_swiper_area .text-left .slider_vd_icon {
+    right: 16%;
+  }
+  /* Banner Css */
+  .witr_ds_content {
+    background-position: center left;
+  }
+  /* About Css */
+  .about-inner {
+    padding-right: 0px;
+  }
+  /* Booking css */
+  .witr_s_flex {
+    display: flex;
+    width: 65%;
+  }
+  /* Testimonials css */
+  .testi-main {
+    padding: 0px 0 130px 0;
+  }
+  .testi_page {
+    background: transparent;
+    padding: 50px 0;
+  }
+  .testomonial-slide {
+    margin-top: 40px;
+  }
+  .all_color_testimonial p {
+    font-size: 20px;
+    padding: 12px 50px 22px 50px;
+  }
+  .em-service-title h3 a {
+    font-size: 25px;
+  }
+  .booking-inner {
+    padding: 50px 10px 50px 20px;
+  }
+  /* single team page css */
+  .video-open-inline iframe {
+    height: 500px;
+  }
+  /* single blog */
+  .recent-post-image img {
+    margin-top: 8px;
+  }
+  .brpt h2 {
+    font-size: 25px;
+  }
+  .recent-post-text span {
+    font-size: 15px;
+  }
+  .blog-left-side > div {
+    padding: 35px 23px 35px;
+  }
+  .recent-post-item {
+    padding-bottom: 0;
+  }
+  .recent-post-text h4 a {
+    font-size: 14px;
+    font-weight: 500;
+  }
+  /* swiper slider */
+  .witr_swiper_height {
+    width: 100% !important;
+  }
+  .witr_swiper_content h2,
+  .witr_swiper_content h3 {
+    font-size: 55px;
+  }
+  .w_slider_4 .witr_swiper_height {
+    margin-left: 0px !important;
+  }
+  .d1.witr_swiper_height {
+    width: 100% !important;
+  }
+  .w_slider_3 .d1.witr_swiper_height {
+    width: 100% !important;
+    transform: translateX(0) !important;
+  }
+  .d2.witr_swiper_height {
+    width: 50% !important;
+  }
+  .witr_swiper_area .text-right .witr_slider_thumb {
+    left: -230px !important;
+  }
+  .witr_swiper_area .text-left .witr_slider_thumb {
+    right: -150px !important;
+  }
+  .h3_swiper .witr_swiper_content h2 {
+    font-size: 50px;
+  }
+  /* nivo slider */
+  .em-slider-title {
+    font-size: 26px;
+    margin-bottom: 10px;
+  }
+  .em-slider-sub-title {
+    font-size: 42px;
+    margin-bottom: 2px;
+  }
+  .em-slider-descript {
+    margin-bottom: 20px;
+    width: 66%;
+  }
+  .text-left .em_slider_s2_content {
+    margin-right: 10%;
+  }
+  .text-right .em_slider_s2_content {
+    margin-left: 10%;
+  }
+  .em-slider-sub-title {
+    line-height: 49px;
+  }
+  .em_sc_100 {
+    margin-top: 15px;
+  }
+  .em_slider_s2_image_inner img {
+    width: 100%;
+  }
+  .company_experience_area .work_left_inner {
+    padding: 0px 0px 0px 0px;
+  }
+  .witr_s_flex2 .em-service-icon {
+    margin-left: -30px;
+  }
+  .witr_s_flex2 .em-service-icon img {
+    height: 58px;
+  }
+  /*========= New Top Menu css ========*/
+  .cr_top_addess.top-address p {
+    text-align: center !important;
+  }
+  .theme_cr_logo {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .d_lg_block {
+    display: block;
+  }
+  .creative_header_address {
+    padding-left: 0;
+  }
+  .em_creative_header:before {
+    display: none;
+  }
+  /*========= banner area css ========*/
+  .witr_banner_content h2 {
+    font-size: 50px;
+  }
+  .witr_banner_content p {
+    width: 85%;
+  }
+  .witr_banner_content.text-right {
+    margin-right: 20px;
+  }
+  /*======== banner_area 2 ==========*/
+  .banner_area {
+    position: relative;
+    height: 600px;
+  }
+  /*======== slick slider ==========*/
+  .witr_ds_content {
+    height: 800px !important;
+  }
+  /*========== height css ===========*/
+  .menu-height-space {
+    height: 0;
+  }
+  .em_creative_header:after {
+    transform: rotate(-100deg);
+  }
+  .psylogy_menu > ul > li > a {
+    font-size: 17px;
+  }
+  .menu_popup_option {
+    margin-left: 7px;
+    margin-right: 7px;
+  }
+  a.dtbtn {
+    font-size: 15px;
+  }
+  .witr_h_h9 .psylogy_menu > ul > li > a {
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+  /* service details css */
+  .departmentList {
+    padding: 73px 20px 65px;
+  }
+  /* new css */
+  .sub-item p {
+    padding: 0 6px;
+  }
+  .witr_section_title_inner.text-center p,
+  .witr_section_title_inner.text-left p,
+  .witr_section_title_inner.text-right p {
+    width: 100%;
+  }
+  .title_in_area {
+    width: 100%;
+  }
+  /* single_image */
+  .single_image {
+    left: 0 !important;
+  }
+  .single_image img {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  /* text_widget css */
+  .witr_text_widget_inner h2 {
+    font-size: 30px;
+    padding: 0 !important;
+  }
+  .testimonial-meta-inner .em-service2.sleft.all_color_service {
+    margin-left: 20px;
+  }
+  .witr_text_widget_inner h1 {
+    font-size: 17px;
+  }
+  .single_service_area .witr_text_widget_inner h2 {
+    font-size: 40px !important;
+    padding: 40px 0px 0px 0px !important;
+  }
+  .testimonial-meta-inner {
+    padding: 16px 0px 0px 20px;
+  }
+  .testimonial-image img {
+    margin-bottom: 16px;
+  }
+  /* Screenshots css */
+  .dnSlide-main.done {
+    margin-left: 61px;
+  }
+  .Screenshots-fearm img {
+    width: 190% !important;
+    left: -96px;
+    top: -28px;
+    max-width: 190% !important;
+  }
+  .Screenshots .dnSlide-main .dnSlide-right-btn {
+    right: -83px;
+  }
+  .Screenshots .dnSlide-main .dnSlide-left-btn {
+    left: -43px;
+  }
+  .accordion-content {
+    padding: 23px 25px;
+  }
+  .psylogy_about_area .witr_shape_item_inner {
+    top: -235px;
+    right: -410px;
+  }
+  /* brand area css */
+  .psylogy_brand_area {
+    padding: 0;
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  .carousel_imagess_area {
+    padding: 55px 5px 65px 5px;
+  }
+  .h3_brand_area {
+    padding: 65px 10px 90px 10px;
+  }
+  .h3_brand_area .witr_shape_item_inner {
+    right: -270px;
+  }
+  .h4_brand_area {
+    padding: 0 50px 0 50px;
+  }
+  /* feature area css */
+  .sub-item {
+    padding: 60px 25px 50px 25px;
+  }
+  .psylogy_feature_area .em-service-title h3 a {
+    font-size: 22px;
+  }
+  .h3_feature_area .witr_shape_item_inner {
+    left: -300px;
+  }
+  .h3_feature_area .text_box {
+    padding: 0;
+  }
+  .h4_feature_area .sub-item i {
+    margin: 0 0 0 175px;
+  }
+  .sub-item.all_feature_color.text-left h3 a {
+    font-size: 21px;
+  }
+  /* counter area css */
+  .counter_area2 .witr_counter_text h4 {
+    font-size: 25px;
+  }
+  .psylogy_choose_area .witr_section_title_inner p {
+    width: 90% !important;
+  }
+  .sub-border-2 i,
+  .feature_topicon_post {
+    left: 55px;
+  }
+  .counter_inner {
+    margin-right: 0px;
+  }
+  .counter_inner .all_counter_color {
+    text-align: center;
+  }
+  .witr_custom_icon {
+    float: inherit;
+    margin-bottom: 10px;
+  }
+  /* call area css */
+  .psylogy_content h2,
+  .psylogy_content h3 {
+    font-size: 40px;
+  }
+  .call_inner .witr_section_title_inner h3 {
+    font-size: 23px;
+    margin-top: -3px;
+  }
+  .psylogy_call_action .em_service_content {
+    padding: 0 75px 0 45px;
+  }
+  /* portfolio area css */
+  .positi_3.pprotfolio4 {
+    padding: 12px 10px 13px;
+  }
+  .porttitle_inner4 h3 a {
+    font-size: 20px;
+  }
+  .psylogy_portfolio_area .witr_section_title_inner p {
+    width: 74% !important;
+  }
+  .netl_project_area {
+    padding: 0;
+  }
+  .port_4column .witr_section_title_inner p {
+    width: 75% !important;
+  }
+  .prot_content h3 a {
+    font-size: 20px;
+  }
+  .port_3column .witr_section_title_inner p {
+    width: 80% !important;
+  }
+  .psylogy_project_area .slick-next,
+  .psylogy_project_area .slick-prev {
+    top: 430px !important;
+  }
+  .psylogy_project_area .slick-next {
+    right: 425px !important;
+  }
+  .psylogy_project_area .slick-prev {
+    left: 415px;
+  }
+  .contact_page_area .service-item h3 a {
+    font-size: 22px;
+  }
+  /* countdown area css */
+  .countdown_area3 span.cdowns {
+    height: 100px;
+  }
+  .countdown_area3 {
+    padding: 85px 0 50px;
+  }
+  /* work process area css */
+  .work_process_right_inner {
+    padding: 103px 0 90px 30px;
+  }
+  .work_process_left_inner .em-service2.sleft {
+    padding: 35px 5px 37px 15px;
+  }
+  .work_process_left_inner .em-service2 .em-service-inner {
+    width: 50%;
+  }
+  .work_process_left_inner .witr_btn {
+    font-size: 15px;
+    padding: 18px 20px;
+    margin-right: 0;
+  }
+  .work_process_left_inner .em-service-title h3 {
+    font-size: 17px;
+    padding: 5px 0px 0 0;
+  }
+  /* shortcode_content */
+  .shortcode_content h2 {
+    font-size: 18px !important;
+  }
+  /* images_area */
+  .images_area.wittr_car_top_left .slick-dots {
+    left: 30px;
+  }
+  .singleSS {
+    padding: 61px 24px 60px;
+  }
+  .witr_nth_child:nth-child(2n) {
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+  /* blog css */
+  .h2_blog_area .witr_blog_con h2 a {
+    font-size: 21px;
+  }
+  .psylogy_blog_area .witr_shape_item_inner {
+    top: 118px;
+    left: -420px;
+  }
+  .blog_witr_shap .witr_shape_item_inner {
+    display: none;
+  }
+  .witr_blog_con h2 a {
+    font-size: 21px;
+  }
+  .widget_recent_data .recent-post-image img {
+    margin-bottom: 23px;
+  }
+  .wblog-content h5 > a {
+    font-size: 19px;
+  }
+  .blog-content span {
+    font-size: 13px;
+  }
+  .blog-content > a {
+    line-height: 40px;
+    padding: 0 20px;
+  }
+  .widget .widget_media_image img {
+    width: 100%;
+  }
+  .blog-left-side .blog-title > ul > li > a {
+    margin-right: 8px;
+  }
+  .footer-middle .recent-post-text > h4 {
+    margin-top: -7px;
+    line-height: 1;
+  }
+  .em-blog-content-area {
+    padding: 22px 15px 7px;
+  }
+  .witr_titles h3 {
+    font-size: 20px;
+  }
+  .witr_blog_con6 h2 {
+    font-size: 17px;
+  }
+  .witr_blog_con6 h5 a {
+    font-size: 17px;
+  }
+  /* team css */
+  .psylogy_team_area .witr_shape_item_inner {
+    top: -180px;
+    left: -385px;
+  }
+  .witr_team_content4 {
+    padding: 15px 26px 13px;
+  }
+  .team-style-2 .em-content-title h2 {
+    font-size: 17px;
+    margin-top: -1px;
+  }
+  .team-style-2 .em-content-socials a {
+    font-size: 14px;
+  }
+  .h3_team_left {
+    padding: 0 20px 0 15px;
+  }
+  .h3_team_witr {
+    padding: 0;
+  }
+  .h3_team_area .witr_shape_item_inner {
+    left: -500px;
+  }
+  .h4_team_area {
+    margin: 0 0 0 50px;
+  }
+  /* video area css */
+
+  .h2_video_area {
+    margin: 0;
+    padding: 100px 0 100px 0;
+  }
+  .metp_video_area .psylogy_content h2,
+  .metp_video_area .psylogy_content h3 {
+    font-size: 32px;
+  }
+  .psylogy_video_inner {
+    top: 30px;
+  }
+  .tab_video_inner {
+    padding-left: 0;
+  }
+  .tab_video_inner2 {
+    padding-right: 0;
+  }
+  /* feature css */
+  .feature_area2 {
+    margin: 0 30px;
+  }
+  .witr_feature2 h3 {
+    font-size: 20px;
+  }
+  .home2_feature_area {
+    padding: 120px 0 0;
+  }
+  .psylogy_feature_area .em-service2 {
+    padding: 30px 20px;
+  }
+  .h3_feat_witr {
+    margin: 0;
+  }
+  /* service css */
+  .psylogy_feature_area2 .all_color_service {
+    padding: 0 0 20px 0;
+  }
+  .psylogy_serv_area {
+    padding: 0;
+  }
+  .service_witr_inner {
+    margin: 0px 0 0 15px;
+  }
+  .em-service2.sleft.all_color_service {
+    margin-bottom: 20px;
+  }
+  .psylogy_service_area .all_color_service {
+    padding: 20px 0px;
+  }
+  .psylogy_tab_area .witr_section_title_inner p {
+    width: 92% !important;
+  }
+  .witr_content_service h3 {
+    color: #fff;
+    font-size: 20px;
+  }
+  .witr_service3_box {
+    text-align: center;
+  }
+  .witr_service3_icon {
+    float: none;
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+  .psylogy_service_area .service-item h3 a {
+    font-size: 19px;
+  }
+  .h3_service_area .all_color_service h3,
+  .h3_service_area .all_color_service h3 a {
+    font-size: 19px;
+  }
+  /* video area css */
+  .left_content_inner {
+    margin-left: 0;
+  }
+  .left_content_inner .witr_section_title {
+    margin-bottom: 25px;
+  }
+  /* testomonial style 8 css */
+  .h2_test_area {
+    padding: 0 0 50px;
+  }
+  .h2_test_area .slick-dots {
+    left: 580px;
+  }
+  .h2_test_area .witr_shape_item_inner {
+    left: -240px;
+  }
+  .h2_test_witr_shap .witr_shape_item_inner {
+    right: -200px;
+    left: auto;
+  }
+  .psylogy_test_area .witr_shape_item_inner {
+    top: -163px;
+    right: -469px;
+  }
+  .testi_page_testimonial .all_color_testimonial h2 {
+    font-size: 22px;
+  }
+  .em_crating i.active {
+    font-size: 22px;
+  }
+  .witr_testomonial_area {
+    width: 85%;
+  }
+  .witr_testi_main {
+    width: 75%;
+  }
+  .psylogy_testimonial_area .slick-prev {
+    left: -15px;
+  }
+  .psylogy_testimonial_area .slick-next {
+    right: -15px;
+  }
+  .h3_test_area .witr_shape_item_inner {
+    right: -65px;
+  }
+  /* curosel-style css */
+  .curosel-style .owl-nav div {
+    left: -15px;
+  }
+  .curosel-style .owl-nav .owl-next {
+    right: -15px;
+  }
+  /* countdown css */
+  span.cdowns {
+    margin: 0 10px 20px;
+  }
+  /* timeline css */
+  .mrr90 {
+    margin-right: 54px;
+  }
+  .mrl110 {
+    margin-left: 50px;
+  }
+  /* static tab css*/
+  .tab_middle_ser .service-item {
+    padding: 0;
+  }
+  .tab_midd_cont .witr_section_title_inner h3 {
+    font-size: 30px;
+  }
+  .h2_tab_area .witr_section_title_inner p {
+    width: 75% !important;
+  }
+  .tab_midd_cont .witr_section_title_inner p {
+    width: 100% !important;
+  }
+  .event_pcontent p,
+  .psylogy_event_icon span {
+    font-size: 13px;
+  }
+  /* tab area css */
+  .autocar_tab_area .witr_shape_item_inner {
+    top: -160px;
+    left: -265px;
+  }
+  .tab_image_inner {
+    margin-right: 0;
+  }
+  .inner_area {
+    margin: 0;
+  }
+  .witr_adv_tab_content {
+    margin: 20px 0px 30px 0px;
+  }
+  /* footer area css */
+  .psylogy-description-area .social-icons a {
+    margin-right: 5px;
+  }
+  .footer-middle .recent-post-text h4 a {
+    font-size: 14px;
+  }
+  .footer-bottom::before {
+    width: 100%;
+  }
+  .text-right .witr_slider_thumb {
+    left: -90px !important;
+  }
+  .text-left .witr_slider_thumb {
+    right: -340px !important;
+  }
+  .em_slider_s2_image img {
+    display: none;
+  }
+  .witr_back_process,
+  .witr_process_box {
+    display: none;
+  }
+  /* add new css*/
+  /* causes */
+  .witr_couses_btnb a {
+    padding: 13px 18px;
+    font-size: 15px;
+  }
+  .witr_circal_r {
+    margin-left: 18px;
+  }
+  .witr_circal_r h6 {
+    font-size: 15px;
+  }
+  /* event */
+  .witr_event_btn a {
+    font-size: 16px;
+  }
+  .witr_event_style_7 .witr_event_d {
+    padding-top: 64px;
+  }
+  .witr_event_style_7 .event-page-title_adn {
+    padding-top: 15px;
+  }
+  #scrollUp {
+    bottom: 60px;
+    right: 30px;
+  }
+  .about_left_inner img {
+    padding-right: 10px;
+  }
+  .about_witr_content_inner {
+    padding: 0px 0px 0px 0px;
+  }
+  .h4_about_area .about_content {
+    padding: 0;
+  }
+  .witr_section_title_inner h1,
+  .witr_section_title_inner h3 {
+    font-size: 35px;
+  }
+  .work_left_inner {
+    padding: 0;
+  }
+  .counter_inner_area {
+    padding: 90px 0px 78px 20px;
+  }
+  /* about area css */
+  .h3_about_area .witr_shape_item_inner {
+    right: -265px;
+  }
+  .h2_about_content {
+    padding: 10px 0 0 5px;
+  }
+  .ab_left_content {
+    padding: 0 5px 0 0;
+  }
+  .h4_ab_midd_counter .witr_counter_number_inn h3,
+  .h4_ab_midd_counter .witr_counter_number_inn span {
+    font-size: 35px;
+  }
+  .psylogy_about_image_inner {
+    padding-right: 0;
+  }
+  .about_content_inner {
+    padding-left: 15px;
+    margin-top: 0;
+  }
+  .about_service_inner .text_box {
+    padding: 0;
+  }
+  /* video area css */
+  .video_left_inner {
+    margin-left: 0;
+  }
+  .witr_videos_title_text h3 {
+    font-size: 20px;
+  }
+  .witr_videos_title_text {
+    left: 50px;
+  }
+  .h3_video_left .witr_section_title_inner h3 {
+    font-size: 28px;
+  }
+  /* faq area css */
+  .h2_contact_area {
+    padding: 120px 0 160px 0;
+  }
+  .h2_contact_inner {
+    padding: 55px 30px 55px 30px;
+  }
+  .h2_faq_inner {
+    padding: 30px 0px 30px 0;
+  }
+  .faq_inner {
+    padding: 15px 0px 20px 0;
+  }
+  .faq_content_inner {
+    margin-left: 0;
+  }
+  .psylogy_faq_area .witr_section_title {
+    margin-top: 20px;
+  }
+  .faq_content_inner .witr_section_title_inner h3 {
+    font-size: 30px;
+  }
+  .h3_faq_area .witr_section_title_inner h3 {
+    font-size: 30px;
+  }
+  .h3_faq_middle_ser .all_icon_color img {
+    margin: 0;
+  }
+  /* choose area css */
+  .choose_left_inner {
+    margin: 0 20px 0 0px;
+  }
+  .choose_counter_inner {
+    margin-right: 5px;
+  }
+  .choose_counter_inner .all_counter_color {
+    text-align: left;
+  }
+  .psylogy_counter_area {
+    padding: 100px 0 170px;
+  }
+  .psylogy_counter_area.h2_counter {
+    padding: 0 0 0;
+  }
+  .psylogy_counter_area.h2_counter.h3_counter {
+    padding: 50px 0 40px 0;
+  }
+  .h4_left_counter {
+    margin: -120px 25px 0 -25px;
+  }
+  /* contact area css */
+  .psylogy_contact_area {
+    padding: 100px 50px 100px 50px;
+    margin: -70px 0 0 0;
+  }
+  .contact_page_area .all_color_service {
+    padding: 50px 30px 60px 30px;
+  }
+  /* skill area css */
+  .psylogy_skill_area {
+    padding: 122px 0 100px;
+  }
+  .skill_inner {
+    margin: 0px 0 0 20px;
+  }
+  /* project area css */
+  .project_area .slick-prev {
+    left: 810px;
+  }
+  .h2_project_area {
+    padding: 0;
+  }
+  .h2_project_area .ps1 .witr_single_pslide:hover .witr_content_pslide_text {
+    bottom: 140px;
+  }
+  .h3_project_area {
+    padding: 0 20px 10px 20px;
+  }
+  /* pricing plan area css */
+  .pricing-part ul {
+    padding: 0 25px;
+    text-align: left;
+  }
+  .pricing-part h4 {
+    font-size: 25px;
+  }
+  .pricing_style_6 .witr_pricing_icon {
+    top: -42px;
+    left: 20px;
+  }
+  /* achivment area start */
+
+  .departmentList {
+    padding: 0;
+  }
+
+  /* achivment area end */
+  .ser_main .witr_titles_content {
+    padding-right: 0px;
+  }
+  .black_bg {
+    background: #000;
+    padding: 99px 30px;
+  }
+}
+/* ------------------------------------------------- Tablet Screen : 768 ---------------------------------------------------*/
+@media (min-width: 768px) and (max-width: 991px) {
+  .breadcumb-area {
+    padding: 100px 0;
+  }
+  .poket-header-top {
+    background: #0c5adb;
+    padding: 10px 15px;
+  }
+  .psylogy_nav_area.postfix {
+    display: none;
+  }
+  .top-right-menu ul.social-icons {
+    text-align: center !important;
+  }
+  .top-address.text-left {
+    text-align: center !important;
+  }
+  /* breadcumb area css */
+  .all_header_abs {
+    position: inherit;
+  }
+  .all_header_abs .psylogy-header-top {
+    background: #0049ff;
+  }
+  .psylogy-header-top {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+  .creative_header_address {
+    padding-left: 10px;
+  }
+  .witr_containers {
+    width: 90%;
+  }
+  .witr_ds_content_area .slick-prev,
+  .witr_ds_content_area .slick-next {
+    top: 48%;
+  }
+  .call_action_witr_inner {
+    margin-top: -10px;
+  }
+  .witr_ds_content_inner h2,
+  .witr_ds_content_inner h3 {
+    font-size: 48px;
+  }
+  /* swiper slider */
+  .witr_sw_text_area {
+    width: 100%;
+  }
+  .witr_swiper_height {
+    height: 650px;
+  }
+  .witr_swiper_height {
+    width: 100% !important;
+  }
+  .w_slider_4 .witr_swiper_height {
+    margin-left: 0px !important;
+  }
+  .t1.witr_swiper_height {
+    width: 100% !important;
+  }
+  .w_slider_3 .t1.witr_swiper_height {
+    transform: translateX(0) !important;
+  }
+  .t2.witr_swiper_height {
+    width: 50% !important;
+    left: -20px;
+  }
+  .w_slider_3 .t2.witr_swiper_height {
+    transform: translateX(-50%) !important;
+    left: 91%;
+  }
+  .h5_swiper .witr_ds_content_inner h2 {
+    font-size: 35px;
+  }
+  .witr_swiper_area .text-left .slider_vd_icon {
+    right: 47%;
+    top: -28%;
+  }
+  .witr_sw_text_area.text-right,
+  .witr_sw_text_area.text-left {
+    text-align: center !important;
+  }
+  .text-right .witr_swiper_content h1,
+  .text-right .witr_swiper_content h2,
+  .text-right .witr_swiper_content h3,
+  .text-right .witr_swiper_content p,
+  .text-left .witr_swiper_content h1,
+  .text-left .witr_swiper_content h2,
+  .text-left .witr_swiper_content h3,
+  .text-left .witr_swiper_content p,
+  .text-center .witr_swiper_content h1,
+  .text-center .witr_swiper_content h2,
+  .text-center .witr_swiper_content h3,
+  .text-center .witr_swiper_content p {
+    width: 85% !important;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+  }
+  .witr_swiper_content h2,
+  .witr_swiper_content h3 {
+    font-size: 40px;
+  }
+  .text-right .witr_btn_sinner,
+  .text-left .witr_btn_sinner {
+    text-align: center !important;
+  }
+  .psylogy-single-blog-details-inner {
+    padding: 38px 30px 45px;
+  }
+  .h3_swiper .witr_swiper_content h2 {
+    font-size: 45px;
+  }
+  /* slick prev next area css */
+  .witr_ds_content {
+    background-position: center left;
+  }
+  .slick-prev {
+    left: -15px;
+  }
+  .slick-next {
+    right: -15px;
+  }
+  /* About CSS Area  */
+  .about-inner {
+    padding-right: 0;
+  }
+  /* brand area css */
+  .psylogy_brand_area .witr_section_title {
+    margin-bottom: 30px;
+  }
+  /* service area css */
+  .witr_service_s_12:hover .text_box {
+    bottom: -15px;
+  }
+  .service_content_inner {
+    padding: 0;
+  }
+  .service_content_inner .witr_section_title_inner p {
+    width: 100% !important;
+  }
+  .serivce_item_inner {
+    display: inherit;
+  }
+  /* faq css area */
+  .witr_ac_style {
+    font-size: 16px;
+  }
+  .diff_main .witr_ac_style {
+    font-size: 20px;
+  }
+  /* nivo slider */
+  .em-slider-title {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .em-slider-sub-title {
+    font-size: 30px;
+    margin-bottom: 0;
+  }
+  .em-slider-descript {
+    display: none;
+  }
+  .em-button-button-area a {
+    margin-top: 20px;
+  }
+  .em-slider-sub-title {
+    line-height: 46px;
+  }
+  /* banner area css */
+  .witr_banner_area {
+    height: 700px;
+  }
+  .witr_banner_content h1 {
+    font-size: 58px;
+  }
+  .witr_banner_content h2 {
+    font-size: 42px;
+  }
+  .witr_banner_content p {
+    font-size: 16px;
+    width: 77%;
+  }
+  .witr_butn {
+    line-height: 49px;
+  }
+  .witr_banner_content.text-right {
+    margin-right: 20px;
+  }
+  /* circle progress css */
+  .progress_bar_area2 .witr_circle_area {
+    margin-bottom: 40px;
+  }
+  /* service details css */
+  .departmentList {
+    padding: 0;
+    margin: 0;
+  }
+  .menufacturing_area .apartment_area {
+    padding: 60px 20px 75px;
+    margin: 20px -15px 0 -15px;
+  }
+  /*=========== banner area 2 css ===============*/
+  .banner_area {
+    height: 700px;
+  }
+  .banner-content h1,
+  .banner-content h2,
+  .banner-content h3 {
+    font-size: 45px;
+  }
+  .witr_deshboard {
+    margin-top: 30px;
+  }
+  /* single team page css */
+  .video-open-inline iframe {
+    height: 450px;
+  }
+  /* animate_banner_area */
+  .animate_banner_area .text-center.banner-content p,
+  .animate_banner_area .text-right.banner-content p,
+  .animate_banner_area .text-left.banner-content p {
+    width: 100% !important;
+  }
+  /*=========== Slick area css ===============*/
+  .witr_ds_content {
+    height: 550px !important;
+  }
+  .text-right .witr_ds_content_inner h1,
+  .text-right .witr_ds_content_inner h2,
+  .text-right .witr_ds_content_inner h3,
+  .text-right .witr_ds_content_inner p,
+  .text-left .witr_ds_content_inner h1,
+  .text-left .witr_ds_content_inner h2,
+  .text-left .witr_ds_content_inner h3,
+  .text-left .witr_ds_content_inner p,
+  .text-center .witr_ds_content_inner h1,
+  .text-center .witr_ds_content_inner h2,
+  .text-center .witr_ds_content_inner h3,
+  .text-center .witr_ds_content_inner p {
+    width: 100% !important;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+  }
+  .text-right .slider_vd_icon {
+    left: 43% !important;
+    top: -13% !important;
+  }
+  .witr_slicks_title h4 {
+    font-size: 105px !important;
+  }
+  .slider_btn {
+    text-align: center;
+  }
+  .witr_slider_thumb.em_slider_s2_image {
+    display: none;
+  }
+  /* tutor */
+  .tutor-course-loop-title h2 a {
+    font-size: 17px;
+  }
+  /* Em-Creative Header */
+  .top_crt_style {
+    padding-bottom: 0;
+  }
+  .tx_top_together {
+    justify-content: center;
+  }
+  .creative_header_curve {
+    display: none;
+  }
+  .creative_header_logo {
+    padding-right: 0;
+    text-align: center;
+  }
+  .em_creative_header {
+    background: transparent none repeat scroll 0 0;
+    z-index: 999;
+  }
+  .creative_header_button {
+    padding-bottom: 30px;
+    text-align: center;
+  }
+  .creative_header_button:before,
+  .em_creative_header:before,
+  .em_creative_header:after {
+    display: none;
+  }
+  .em_creative_header {
+    padding-bottom: 0;
+  }
+  .em-nivo-slider-wrapper .nivo-directionNav {
+    display: none;
+  }
+
+  .single_team_info_area .medi_singleService.wirt_s2_s6 h3 {
+    margin-top: 0;
+  }
+  .single_team_info_area .single_team_right_inner {
+    padding: 0;
+  }
+  /* choose area css */
+  .choose_left_inner {
+    margin: 0 0 0 -25px;
+  }
+  .psylogy_choose_area .witr_section_title_inner p {
+    width: 100% !important;
+  }
+  .psylogy_choose_area .em-service2 .em-service-icon i {
+    margin-bottom: 10px;
+  }
+  .psylogy_choose_area .em_service_content {
+    margin-bottom: 30px;
+  }
+  /* section_title */
+  .witr_section_title_inner h1,
+  .witr_section_title_inner h3 {
+    font-size: 30px;
+  }
+  .witr_section_title_inner.text-center p,
+  .witr_section_title_inner.text-left p,
+  .witr_section_title_inner.text-right p {
+    margin: 0 auto;
+  }
+  .title_in_area {
+    width: 100%;
+  }
+  /* Faq area css */
+  .accordion_area .card-2 p {
+    padding: 5px 22px 12px;
+  }
+  /* feature area css */
+  .psylogy_installation_feature_area .feature_inner {
+    margin-top: 0;
+    padding: 95px 0px 80px;
+  }
+  .h3_feature_area .witr_shape_item_inner {
+    top: 70px;
+    left: -300px;
+  }
+  .h3_feat_witr {
+    margin: 0;
+  }
+  .h3_feature_area .all_icon_color img {
+    margin: 0 20px 15px 0;
+  }
+  .h3_feature_area .em-service2 {
+    margin-bottom: 0;
+  }
+  .h3_feature_area .text_box {
+    padding: 0;
+  }
+  /* about css */
+  .h3_about_area .about_content {
+    padding: 0px 0 0 5px;
+  }
+  .h2_about_content {
+    padding: 0;
+  }
+  .ab_middle_list {
+    margin-right: 0;
+  }
+  .ab_img_inner {
+    padding: 0;
+  }
+  .ab_left_content {
+    padding: 0;
+  }
+  .ab_left_content .witr_button_area {
+    margin-top: 0;
+  }
+  .ab_middle_img {
+    margin: 0;
+  }
+  .h4_ab_midd_counter {
+    display: inherit;
+  }
+  .h4_about_area .about_content {
+    padding: 0;
+  }
+  /* test area css */
+  .psylogy_brand_area {
+    padding: 0;
+  }
+  .psylogy_test_area .witr_shape_item_inner {
+    top: -250px;
+    right: -405px;
+  }
+  .testimonial-job {
+    font-size: 15px;
+  }
+  .testimonial-image img {
+    margin-right: 14px;
+    margin-bottom: 7px;
+  }
+  .testimonial-meta-inner .em-service-title h3 {
+    padding: 0;
+  }
+  .testimonial-meta-inner .em-service2.sleft.all_color_service {
+    margin-left: 0;
+    margin-top: 30px;
+  }
+  .h4_test_inner .witr_section_title_inner.text-center p {
+    width: 90%;
+  }
+  .h4_test_inner {
+    padding: 50px 0 50px 0;
+    margin-right: -10px;
+  }
+  .testomonial .test-part.witr_testi_s_11 {
+    padding: 30px 15px 20px 15px;
+  }
+  .h4_test_inner .all_color_testimonial p {
+    font-size: 19px;
+  }
+  .witr_button_area {
+    margin-top: 15px;
+  }
+  .witr_text_widget_inner h1,
+  .witr_text_widget_inner h2 {
+    font-size: 25px;
+  }
+  .witr_text_widget_inner h1 {
+    font-size: 20px;
+  }
+  .witr_about_content {
+    text-align: center;
+  }
+  .about_witr_content_inner {
+    padding: 0px 0px 0px 0px;
+  }
+  .about_left_inner img {
+    padding-right: 0px;
+  }
+  .psylogy_about_area .witr_section_title_inner.text-left p {
+    width: 100% !important;
+  }
+  .about_content_inner {
+    margin-left: 0;
+  }
+  .about_content_inner {
+    margin-top: 0;
+  }
+  .work_left_inner {
+    padding: 0px 0px 0px 0px;
+  }
+  .psylogy_work_area .witr_section_title_inner p {
+    width: 100% !important;
+  }
+  /* countdown area css */
+  .countdown_area3 span.cdowns {
+    height: 100px;
+  }
+  .countdown_area3 {
+    padding: 85px 0 50px;
+  }
+  /* skill area css */
+  .h3_skill_area {
+    margin-top: -405px;
+  }
+  .psylogy_skill_area .witr_section_title_inner p {
+    width: 100% !important;
+  }
+  .psylogy_skill_area {
+    padding: 122px 0 80px;
+  }
+  .skill2_inner {
+    padding: 0;
+  }
+  /* call action css */
+  .call_inner .witr_section_title_inner h3 {
+    font-size: 20px;
+    margin-top: -5px;
+  }
+  .call_to_action_area .witr_s_flex,
+  .psylogy_work_area .witr_s_flex {
+    display: inherit;
+  }
+  .psylogy_work_area .em-service-icon {
+    margin-bottom: 20px;
+  }
+  .call_to_action_area .all_color_service h3 {
+    padding: 0px 0px 0px 0px;
+  }
+  .call_to_action_area .all_color_service h3,
+  .call_to_action_area .all_color_service h3 a {
+    font-size: 19px;
+  }
+  .call_to_action_area .em-service-icon i {
+    width: 0px;
+  }
+  .witr_5 .psylogy_content p,
+  .witr_6 .psylogy_content p {
+    padding: 15px 0px 0px;
+  }
+  .psylogy_button.witr_b9 {
+    margin-top: 60px;
+  }
+  .psylogy_accordion_area .witr_section_title_inner p {
+    width: 100% !important;
+  }
+  .psylogy_accordion_area .witr_section_title_inner h3 {
+    font-size: 28px !important;
+  }
+  /* real state area css */
+  .em_real_state_area .witr_text_widget_inner h2 {
+    font-size: 30px;
+  }
+  /* contact area css */
+  .psylogy_cont_area .apartment_text h2 {
+    font-size: 36px;
+  }
+  .map_area iframe {
+    height: 552px;
+  }
+  .contact_page_area .all_color_service {
+    padding: 50px 30px 60px 30px;
+  }
+  .psylogy_contact_area .witr_s_flex {
+    display: inherit;
+  }
+  .psylogy_call_action_area3 h2 {
+    font-size: 32px;
+  }
+  .contact_left_content .witr_section_title_inner p {
+    width: 100% !important;
+  }
+  .psylogy_contact_area .witr_section_title_inner h3 {
+    font-size: 28px;
+  }
+  .apartment_text h2 {
+    font-size: 21px;
+  }
+  .contact_witr_inner .witr_section_title_inner p {
+    width: 100% !important;
+  }
+  .psylogy_contact_area .witr_section_title_inner.text-center p {
+    width: 90%;
+  }
+  /* accourdion css */
+  .psylogy-accourdion-title h2 i {
+    display: none;
+  }
+  .accordion-content {
+    padding: 23px 0px;
+  }
+  .h3_faq_area .witr_section_title_inner h3 {
+    font-size: 30px;
+  }
+  /* feature area css */
+  .feature_area2 {
+    margin: 0;
+    padding: 130px 0 150px;
+  }
+  /* video area css */
+  .metp_video_area .psylogy_content h2,
+  .metp_video_area .psylogy_content h3 {
+    font-size: 27px;
+  }
+  .video_bg_area {
+    padding: 120px 0 90px;
+  }
+  .left_content_inner {
+    margin-left: 0;
+    padding-top: 0;
+  }
+  .left_content_inner .witr_section_title_inner p {
+    width: 100% !important;
+  }
+  .left_content_inner .witr_section_title {
+    margin-bottom: 20px;
+  }
+  /* service css */
+  .h3_service_area {
+    padding-bottom: 150px;
+  }
+  .psylogy_serv_area {
+    padding: 0 30px 60px 30px;
+  }
+  .service_left_inner {
+    margin: 0;
+  }
+  .service_witr_inner {
+    margin: -220px 0 0 0px;
+  }
+  .em-service2 .em-service-icon i {
+    margin-bottom: 10px;
+  }
+  .witr_custom2_icon {
+    float: none;
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+  .witr_service3_box {
+    text-align: center;
+  }
+  .witr_service3_icon {
+    float: none;
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+  .wirt_new_iner {
+    float: none;
+    margin-right: 0;
+  }
+  .witr_service7s_image {
+    margin-right: 10px;
+  }
+  /* single_image */
+  .single_image {
+    left: 0 !important;
+  }
+  .single_image img {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  .witr_tx_ovei_title {
+    position: inherit;
+    right: auto;
+    left: auto;
+    top: auto;
+    padding: 30px;
+    width: 100%;
+    border-radius: 0px;
+  }
+  /* testomonial css */
+  .em_crating i.active {
+    font-size: 22px;
+  }
+  .testomonial.testomonial-5 .test-part img.testimg {
+    top: 86%;
+  }
+  .witr_content_test7 {
+    padding: 0;
+  }
+  /* testomonial style 8 css */
+  .h2_test_area {
+    padding: 0 0 70px;
+  }
+  .h2_test_area .witr_shape_item_inner {
+    left: -260px;
+  }
+  .h2_test_witr_shap .witr_shape_item_inner {
+    right: -165px;
+    left: auto;
+  }
+  .h2_test_area .em_single_testimonial {
+    padding: 5px 30px 26px;
+    margin-top: 0;
+  }
+  .h2_test_left {
+    margin-right: 0;
+  }
+  .witr_testomonial_area {
+    width: 90%;
+  }
+  .witr_testi_main {
+    width: 90%;
+  }
+  .h3_test_area .witr_shape_item_inner {
+    right: 0px;
+  }
+  /* blog css */
+  .psylogy_blog_area .col-md-6 {
+    max-width: inherit;
+  }
+  .psylogy_blog_area .witr_shape_item_inner {
+    top: 118px;
+    left: -457px;
+  }
+  .recent-post-text h4 a {
+    font-size: 15px;
+  }
+  .witr_blog_con h2 a {
+    font-size: 20px;
+  }
+  .blog-left-side.widget {
+    margin-left: -8px;
+  }
+  .witr-blog-side-area.blog_sidebar .psylogy-single-blog {
+    margin-right: -8px;
+  }
+  .widget_recent_data .recent-post-image img {
+    margin-bottom: 18px;
+  }
+  .psylogy-single-icon-inner a {
+    margin: 0 9px 5px 0;
+  }
+  .blog-img img {
+    width: 100%;
+  }
+  .sub-border-2 .sub-item span {
+    top: 31px;
+    left: 75%;
+  }
+  .sub-item p {
+    padding: 0;
+  }
+  .digital-item ul li a {
+    padding: 7px 57px;
+  }
+  .mobil-item {
+    margin-top: 30px;
+  }
+  .download-demo {
+    text-align: center;
+  }
+  /* shape area css */
+  .witr_shape_item_inner {
+    top: -75px;
+  }
+  /* Screenshots css */
+  .dnSlide-main.done {
+    margin-left: -54px;
+  }
+  .Screenshots-fearm img {
+    width: 240% !important;
+    left: -149px;
+    top: -24px;
+    max-width: 240% !important;
+  }
+  .Screenshots .dnSlide-main .dnSlide-right-btn {
+    right: 0px;
+  }
+  .Screenshots .dnSlide-main .dnSlide-left-btn {
+    left: 47px;
+  }
+  .psylogy-accourdion-title h2 {
+    padding-left: 20px;
+  }
+  .w_apps_button a {
+    padding: 3px 20px 11px 20px !important;
+  }
+  span.ipsylogy {
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  span.spaninner {
+    font-size: 20px;
+  }
+  /* project area css */
+  .h2_project_area {
+    padding: 0;
+  }
+  .netl_project_area {
+    padding: 0;
+  }
+  .witr_content_pslide_text a {
+    font-size: 20px;
+  }
+  .psylogy_portfolio_area .witr_section_title_inner p {
+    width: 90%;
+  }
+  .positi_3.pprotfolio4 {
+    padding: 10px 10px 10px;
+  }
+  .h3_project_area {
+    padding: 0 0 10px 0;
+  }
+  /* about css */
+  .digital-img img,
+  .witr_app_area .digital-content h3 {
+    margin-top: 0px !important;
+  }
+  /* tab area css */
+  .h2_tab_area .witr_adv_tab_area {
+    display: inherit;
+  }
+  .tab_middle_ser .service-item {
+    padding: 0;
+  }
+  .tab_one {
+    padding: 0;
+  }
+  .autocar_tab_area .witr_shape_item_inner {
+    top: -95px;
+    left: -330px;
+  }
+  .witr_taba_style1 .nav-tabs span {
+    margin: 0 10px;
+  }
+  .tab_content_inner .witr_section_title_inner p {
+    width: 100% !important;
+    margin: 0 !important;
+  }
+  .inner_area {
+    margin: 0;
+  }
+  .tab_image_inner {
+    margin-right: 0;
+  }
+  .tab_content_inner2 {
+    padding: 0;
+  }
+  .tab_video_inner2 {
+    padding-right: 0;
+  }
+  .witr_adv_tab_content {
+    padding: 15px 0px 0 0;
+  }
+  /* counter css */
+  .h4_left_counter {
+    margin: 30px 0 0 0;
+  }
+  .h4_left_counter .all_counter_color h3 {
+    font-size: 80px;
+  }
+  .title_p {
+    width: 95%;
+  }
+  .psylogy_counter_area.h2_counter {
+    padding: 0;
+  }
+  .counter_bg_area .witr_section_title_inner p {
+    width: 100%;
+  }
+  .counter_inner {
+    margin-right: 0;
+  }
+  .counter_inner .all_counter_color i,
+  .counter_inner .witr_counter_img {
+    margin: 0;
+  }
+  .choose_counter_inner {
+    margin-right: 40px;
+  }
+  .psylogy_counter_area {
+    padding: 85px 0 85px;
+  }
+  .witr_counter_single {
+    text-align: center;
+  }
+  .psylogy_counter_area .witr_counter_single {
+    margin-bottom: 30px;
+  }
+  .witr_counter_icon i {
+    margin-bottom: 15px;
+    margin-right: 0;
+    float: none;
+  }
+  .witr_counter_img,
+  .witr_custom_icon {
+    margin-bottom: 10px !important;
+    float: none !important;
+  }
+  .witr_custom_icon i {
+    margin-right: 0;
+    float: none;
+  }
+  .witr_counter_6 .wirt_new_iner {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .witr_counter_icon,
+  .witr_custom_icon,
+  .counter_icon,
+  .witr_counter_icon4,
+  .witr_counter_img {
+    float: inherit;
+  }
+  /* Booking CSS area */
+  .booking-inner {
+    padding: 57px 0 57px 20px;
+  }
+  .witr_btn {
+    margin: 6px 0px 0px 0px;
+    padding: 16px 30px;
+  }
+  .em-service-title h3 {
+    margin-bottom: 15px;
+  }
+  .em-service-title h3 a {
+    font-size: 25px;
+  }
+  /* Testimonial css area */
+  .testi-main {
+    padding-top: 0;
+  }
+  .testomonial-slide {
+    margin-top: 32px;
+  }
+  /* shortcode_content */
+  .shortcode_content h2 {
+    font-size: 35px !important;
+  }
+  .footer-item form label {
+    margin-left: 30px;
+  }
+  .footer-bottom:before {
+    width: 100%;
+  }
+  .deshboard img {
+    width: 100%;
+  }
+  /* work area css */
+  .h2_work_area {
+    padding: 0px 0px 70px 0px;
+  }
+  .work_left_inner .witr_section_title_inner p {
+    width: 100%;
+  }
+  .work_wirt_inner {
+    margin: 0px 0 0 10px;
+  }
+  /* video area css */
+  .h3_video_left {
+    padding: 100px 15px 100px 15px;
+  }
+  .h3_video_left .witr_section_title_inner h3 {
+    margin-bottom: 15px;
+  }
+  .h2_video_area {
+    margin: 0 20px 0 20px;
+    margin-top: -80px;
+    padding: 100px 0 100px 0;
+  }
+  .psylogy_content h2,
+  .psylogy_content h3 {
+    font-size: 40px;
+  }
+  .psylogy_video_area {
+    padding: 0;
+  }
+  .video-part .video-overlay {
+    padding: 100px 0;
+  }
+  .video-item h3 {
+    font-size: 30px;
+  }
+  .play-overlay {
+    top: 50% !important;
+    left: 50% !important;
+  }
+  .witr_videos_title_text {
+    left: 70px;
+    bottom: 15px;
+    width: 100% !important;
+  }
+  .video_left_inner {
+    margin-left: 0;
+  }
+  .video_right_inner .witr_section_title_inner p {
+    font-size: 18px;
+    width: 100% !important;
+  }
+  /* pricing plan css */
+  .margin_top {
+    margin: 0px 0 20px 0;
+  }
+  /* blog css */
+  .blog-content span {
+    font-size: 14px;
+  }
+  .blog-left-side .widget h2 {
+    font-size: 19px;
+  }
+  .blog-page-title h2 {
+    font-size: 18px;
+  }
+  .widget .widget_media_image img {
+    width: 100%;
+  }
+  .blog-left-side .blog-title > ul > li > a {
+    height: 30px;
+    width: 30px;
+    line-height: 29px;
+    font-size: 15px;
+    margin-right: 2px;
+  }
+  .recent-post-text > h4 {
+    line-height: 23px;
+  }
+  .blog-left-side > div {
+    padding: 9px;
+  }
+  .em-blog-content-area {
+    padding: 15px 15px 10px;
+  }
+  .witr_blog_area10 .witr_blog_con {
+    padding-top: 12px;
+  }
+  .h4_blog_area .witr_section_title_inner p {
+    width: 90%;
+  }
+  /* call-to-action css */
+  .psylogy_call_action {
+    padding: 80px 0 0;
+  }
+  .call_inner {
+    margin-right: -40px;
+    margin-left: -40px;
+  }
+  .psylogy_call_action .em_service_content {
+    padding: 0 0 0 15px;
+  }
+  .psylogy_button.no_margin.text-right,
+  .all_cal_color {
+    text-align: center !important;
+  }
+  .psylogy_call_action .all_color_service h3,
+  .psylogy_call_action .all_color_service h3 a {
+    font-size: 24px;
+  }
+  .cal_to_toggole {
+    display: inherit;
+  }
+  .psylogy_content.text-right,
+  .psylogy_content.text-left {
+    text-align: center !important;
+  }
+  .psylogy_button.no_margin {
+    width: 100% !important;
+    margin-bottom: 20px;
+  }
+  .psylogy_content p {
+    width: 100% !important;
+  }
+  .witr_9 .psylogy_video_inner {
+    margin-bottom: 73px;
+  }
+  .witr_9 .psylogy_video_inner {
+    top: 40px;
+  }
+  .witr_col_image {
+    margin-top: 50px;
+  }
+  .witr_11 {
+    margin-top: 100px;
+  }
+  .witr_5 .psylogy_content p {
+    width: 100%;
+  }
+  .witr_b9 {
+    margin-top: 95px;
+  }
+  /* single portfolio2 */
+  .project_area .slick-prev {
+    left: 565px;
+  }
+  .portfolio-details-box {
+    margin-left: 0;
+  }
+  .pimgs img {
+    width: 100%;
+  }
+  .title_btn a {
+    font-size: 15px;
+    padding: 15px 26px;
+  }
+  .psylogy_portfolio_bg_area .witr_section_title_inner.text-left {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  .psylogy_portfolio_bg_area .title_btn {
+    margin-right: -15px;
+  }
+  .psylogy_project_area .slick-next {
+    right: 305px;
+  }
+  .psylogy_project_area .slick-prev {
+    left: 308px;
+  }
+  .psylogy_project_area .slick-prev,
+  .psylogy_project_area .slick-next {
+    top: 485px;
+  }
+  /* contact css */
+  .h2_contact_inner {
+    padding: 55px 15px 55px 15px;
+  }
+  .psylogy_contact_area {
+    padding: 100px 30px 100px 30px;
+    margin: 0;
+  }
+  .witr_field2 .witr_form_field2,
+  .witr_field2 .witr_form_field2 {
+    float: none;
+    width: 100%;
+  }
+  .witr_form_controls2 .witr_field2 .witr_form_field2:nth-child(odd),
+  .witr_form_controls2 .witr_field2 .witr_form_field2:nth-child(odd) {
+    margin-right: 0;
+  }
+  .contact_content_inner .witr_section_title_inner p {
+    width: 100% !important;
+  }
+  /* countdown css */
+  span.cdowns {
+    margin-bottom: 20px;
+  }
+  span.cdowns:before {
+    display: none;
+  }
+  span.cdowns:after {
+    display: none;
+  }
+  .carosol_area .witr_btn {
+    margin-top: 40px !important;
+  }
+  /* curosel-style css */
+  .curosel-style .owl-nav div {
+    left: -15px;
+  }
+  .curosel-style .owl-nav .owl-next {
+    right: -15px;
+  }
+  /* timeline css */
+  .mrl65,
+  .mrr15 {
+    display: none;
+  }
+  .mrr50 {
+    margin-right: -235px;
+  }
+  .mrl110 {
+    margin-left: -63px;
+  }
+  .mrr90 {
+    margin-right: -40px;
+  }
+  /* static tab css*/
+  .psylogy_event_thumb {
+    float: none;
+    margin-bottom: 15px;
+  }
+  .psylogy_single_event {
+    margin: 0;
+  }
+  .psylogy_event_icon span {
+    margin-right: 5px;
+  }
+  .testomonial-slide .slick-prev,
+  .blog_wrap .slick-prev {
+    left: 15px;
+  }
+  .testomonial-slide .slick-next,
+  .blog_wrap .slick-next {
+    right: 15px;
+  }
+  .recent-post-text {
+    margin-top: 10px;
+  }
+  /* tab area css */
+  .tab_left_content {
+    margin-right: -15px;
+  }
+  /*====== new css ======= */
+  /* ab_videoArea */
+  .singleAbSlide {
+    right: 0;
+    left: 0;
+    bottom: -218px;
+  }
+  .em_testi_logo {
+    right: 15px;
+    top: 35px;
+    display: none;
+  }
+  .witr_nth_child:nth-child(2n) {
+    margin-top: 0;
+    margin-bottom: 30px;
+  }
+  .witr_single_call .text-right {
+    text-align: center !important;
+  }
+  .witr_center {
+    text-align: center;
+  }
+  .em_slider_social {
+    top: 41%;
+    z-index: 999999;
+    display: none;
+  }
+  .psylogy_content {
+    margin-bottom: 30px;
+  }
+  .witr_s_flex {
+    display: block;
+    width: 65%;
+  }
+  /* new css add */
+  .witr_event_style_5 .witr_event_d {
+    padding-top: 30px;
+  }
+  .witr_event_style_5 .witr_event_btn {
+    margin-top: 8px;
+  }
+  .witr_event_style_7 .witr_event_btn {
+    text-align: center;
+  }
+  .witr_appoimentle {
+    position: initial !important;
+  }
+  #scrollUp {
+    bottom: 60px;
+    right: 30px;
+  }
+  /* ps slider */
+  .toggle_pslide {
+    display: inherit;
+  }
+  .witr_pslide5 .witr_content_pslide_text {
+    padding: 10px 15px 15px 15px;
+  }
+  /* work process area */
+  .psylogy_work_process_area .witr_s_flex {
+    display: flex;
+  }
+  .psylogy_work_process_area .witr_btn {
+    padding: 18px 31px;
+  }
+  .work_process_left_inner .em-service2.sleft {
+    padding: 35px 20px 37px 35px;
+  }
+  .work_process_right_inner {
+    padding: 110px 0px 58px 25px;
+  }
+  /* faq area css */
+  .h3_faq_middle_ser {
+    display: inherit;
+  }
+  .h3_faq_middle_ser .all_icon_color img {
+    margin: 0 10px 15px 0;
+  }
+  .h2_faq_inner {
+    padding: 0;
+  }
+  .faq_content_inner {
+    margin-left: 0;
+    margin-top: 0;
+  }
+  .faq_img_inner .single_image img {
+    padding-right: 0;
+  }
+  .psylogy_faq_area .witr_section_title_inner p {
+    width: 100% !important;
+  }
+  .faq_inner {
+    padding: 0;
+  }
+  .psylogy_faq_area .witr_section_title {
+    margin-top: 0;
+  }
+  .faq_content_inner .witr_section_title_inner h3 {
+    font-size: 30px;
+  }
+  /* circle progress area css */
+  .witr_circle_area {
+    margin: 20px 0 30px 0;
+  }
+  .progress_content_inner .witr_section_title_inner p {
+    margin: 0 !important;
+    width: 100% !important;
+  }
+  /* skill area css */
+  .skill_inner {
+    margin: 0;
+  }
+  .carousel_imagess_area {
+    padding: 55px 30px 65px 30px;
+  }
+  /* brand area css */
+  .h3_brand_area {
+    padding: 65px 0 90px 0;
+  }
+  .h3_brand_area .witr_shape_item_inner {
+    right: -300px;
+  }
+  .h4_brand_area {
+    padding: 0;
+  }
+  .h4_brand_inner {
+    padding: 53px 15px 68px 15px;
+  }
+  .testiCreCon p {
+    font-size: 20px;
+    padding: 12px 29px;
+  }
+  .woocommerce table.shop_table_responsive thead,
+  .woocommerce-page table.shop_table_responsive thead {
+    display: none;
+  }
+  .woocommerce table.shop_table_responsive tbody tr:first-child td:first-child,
+  .woocommerce-page
+    table.shop_table_responsive
+    tbody
+    tr:first-child
+    td:first-child {
+    border-top: 0;
+  }
+  .woocommerce table.shop_table_responsive tbody th,
+  .woocommerce-page table.shop_table_responsive tbody th {
+    display: none;
+  }
+  .woocommerce table.shop_table_responsive tr,
+  .woocommerce-page table.shop_table_responsive tr {
+    display: block;
+  }
+  .woocommerce table.shop_table_responsive tr td,
+  .woocommerce-page table.shop_table_responsive tr td {
+    display: block;
+    text-align: right !important;
+  }
+  .woocommerce table.shop_table_responsive tr td.order-actions,
+  .woocommerce-page table.shop_table_responsive tr td.order-actions {
+    text-align: left !important;
+  }
+  .woocommerce table.shop_table_responsive tr td::before,
+  .woocommerce-page table.shop_table_responsive tr td::before {
+    content: attr(data-title) ": ";
+    font-weight: 700;
+    float: left;
+  }
+  .woocommerce table.shop_table_responsive tr td.actions::before,
+  .woocommerce table.shop_table_responsive tr td.product-remove::before,
+  .woocommerce-page table.shop_table_responsive tr td.actions::before,
+  .woocommerce-page table.shop_table_responsive tr td.product-remove::before {
+    display: none;
+  }
+  .woocommerce table.shop_table_responsive tr:nth-child(2n) td,
+  .woocommerce-page table.shop_table_responsive tr:nth-child(2n) td {
+    background-color: rgba(0, 0, 0, 0.025);
+  }
+  .woocommerce table.my_account_orders tr td.order-actions,
+  .woocommerce-page table.my_account_orders tr td.order-actions {
+    text-align: left;
+  }
+  .woocommerce table.my_account_orders tr td.order-actions::before,
+  .woocommerce-page table.my_account_orders tr td.order-actions::before {
+    display: none;
+  }
+  .woocommerce table.my_account_orders tr td.order-actions .button,
+  .woocommerce-page table.my_account_orders tr td.order-actions .button {
+    float: none;
+    margin: 0.125em 0.25em 0.125em 0;
+  }
+  .woocommerce .col2-set .col-1,
+  .woocommerce .col2-set .col-2,
+  .woocommerce-page .col2-set .col-1,
+  .woocommerce-page .col2-set .col-2 {
+    float: none;
+    width: 100%;
+  }
+  .woocommerce ul.products[class*="columns-"] li.product,
+  .woocommerce-page ul.products[class*="columns-"] li.product {
+    width: 48%;
+    float: left;
+    clear: both;
+    margin: 0 0 2.992em;
+  }
+  .woocommerce ul.products[class*="columns-"] li.product:nth-child(2n),
+  .woocommerce-page ul.products[class*="columns-"] li.product:nth-child(2n) {
+    float: right;
+    clear: none !important;
+  }
+  .woocommerce #content div.product div.images,
+  .woocommerce #content div.product div.summary,
+  .woocommerce div.product div.images,
+  .woocommerce div.product div.summary,
+  .woocommerce-page #content div.product div.images,
+  .woocommerce-page #content div.product div.summary,
+  .woocommerce-page div.product div.images,
+  .woocommerce-page div.product div.summary {
+    float: none;
+    width: 100%;
+  }
+  .woocommerce #content table.cart .product-thumbnail,
+  .woocommerce table.cart .product-thumbnail,
+  .woocommerce-page #content table.cart .product-thumbnail,
+  .woocommerce-page table.cart .product-thumbnail {
+    display: none;
+  }
+  .woocommerce #content table.cart td.actions,
+  .woocommerce table.cart td.actions,
+  .woocommerce-page #content table.cart td.actions,
+  .woocommerce-page table.cart td.actions {
+    text-align: left;
+  }
+  .woocommerce #content table.cart td.actions .coupon,
+  .woocommerce table.cart td.actions .coupon,
+  .woocommerce-page #content table.cart td.actions .coupon,
+  .woocommerce-page table.cart td.actions .coupon {
+    float: none;
+    padding-bottom: 0.5em;
+  }
+  .woocommerce #content table.cart td.actions .coupon::after,
+  .woocommerce #content table.cart td.actions .coupon::before,
+  .woocommerce table.cart td.actions .coupon::after,
+  .woocommerce table.cart td.actions .coupon::before,
+  .woocommerce-page #content table.cart td.actions .coupon::after,
+  .woocommerce-page #content table.cart td.actions .coupon::before,
+  .woocommerce-page table.cart td.actions .coupon::after,
+  .woocommerce-page table.cart td.actions .coupon::before {
+    content: " ";
+    display: table;
+  }
+  .woocommerce #content table.cart td.actions .coupon::after,
+  .woocommerce table.cart td.actions .coupon::after,
+  .woocommerce-page #content table.cart td.actions .coupon::after,
+  .woocommerce-page table.cart td.actions .coupon::after {
+    clear: both;
+  }
+  .woocommerce #content table.cart td.actions .coupon .button,
+  .woocommerce #content table.cart td.actions .coupon .input-text,
+  .woocommerce #content table.cart td.actions .coupon input,
+  .woocommerce table.cart td.actions .coupon .button,
+  .woocommerce table.cart td.actions .coupon .input-text,
+  .woocommerce table.cart td.actions .coupon input,
+  .woocommerce-page #content table.cart td.actions .coupon .button,
+  .woocommerce-page #content table.cart td.actions .coupon .input-text,
+  .woocommerce-page #content table.cart td.actions .coupon input,
+  .woocommerce-page table.cart td.actions .coupon .button,
+  .woocommerce-page table.cart td.actions .coupon .input-text,
+  .woocommerce-page table.cart td.actions .coupon input {
+    width: 48%;
+    box-sizing: border-box;
+  }
+  .woocommerce #content table.cart td.actions .coupon .button.alt,
+  .woocommerce #content table.cart td.actions .coupon .input-text + .button,
+  .woocommerce table.cart td.actions .coupon .button.alt,
+  .woocommerce table.cart td.actions .coupon .input-text + .button,
+  .woocommerce-page #content table.cart td.actions .coupon .button.alt,
+  .woocommerce-page
+    #content
+    table.cart
+    td.actions
+    .coupon
+    .input-text
+    + .button,
+  .woocommerce-page table.cart td.actions .coupon .button.alt,
+  .woocommerce-page table.cart td.actions .coupon .input-text + .button {
+    float: right;
+  }
+  .woocommerce #content table.cart td.actions .button,
+  .woocommerce table.cart td.actions .button,
+  .woocommerce-page #content table.cart td.actions .button,
+  .woocommerce-page table.cart td.actions .button {
+    display: block;
+    width: 100%;
+  }
+  .woocommerce .cart-collaterals .cart_totals,
+  .woocommerce .cart-collaterals .cross-sells,
+  .woocommerce .cart-collaterals .shipping_calculator,
+  .woocommerce-page .cart-collaterals .cart_totals,
+  .woocommerce-page .cart-collaterals .cross-sells,
+  .woocommerce-page .cart-collaterals .shipping_calculator {
+    width: 100%;
+    float: none;
+    text-align: left;
+  }
+  .woocommerce-page.woocommerce-checkout form.login .form-row,
+  .woocommerce.woocommerce-checkout form.login .form-row {
+    width: 100%;
+    float: none;
+  }
+  .woocommerce #payment .terms,
+  .woocommerce-page #payment .terms {
+    text-align: left;
+    padding: 0;
+  }
+  .woocommerce #payment #place_order,
+  .woocommerce-page #payment #place_order {
+    float: none;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 1em;
+  }
+  .woocommerce .lost_reset_password .form-row-first,
+  .woocommerce .lost_reset_password .form-row-last,
+  .woocommerce-page .lost_reset_password .form-row-first,
+  .woocommerce-page .lost_reset_password .form-row-last {
+    width: 100%;
+    float: none;
+    margin-right: 0;
+  }
+  .woocommerce-account .woocommerce-MyAccount-content,
+  .woocommerce-account .woocommerce-MyAccount-navigation {
+    float: none;
+    width: 100%;
+  }
+  .single-product .twentythirteen .panel {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  .woocommerce .witr_product_cart .coupon button.button {
+    margin: 20px 0;
+  }
+  /* Service area start */
+
+  .ser_main .witr_titles_content {
+    padding-right: 0px;
+  }
+
+  /* Service area end */
+  /* benifit area start */
+
+  .black_bg {
+    background: #000;
+    padding: 70px 30px;
+  }
+  .beni_pic {
+    height: 599px;
+  }
+  /* Contact area start */
+  .contact_form button {
+    width: 60%;
+    display: inline-block;
+    font-weight: 600;
+    padding: 15px 30px;
+    background: #e0a067;
+    color: #fff;
+    border: 0;
+    transition: 0.5s;
+    cursor: pointer;
+  }
+  .contact_bg {
+    padding: 80px 10px;
+  }
+  /* Contact area end */
+}
+/* benifit area end */
+/* ------------------------------------------------- Small Mobile : 320 ---------------------------------------------------*/
+@media (max-width: 767px) {
+  .psylogy-header-top {
+    display: none;
+  }
+  .psylogy_nav_area.prefix,
+  .hbg2 {
+    display: none;
+  }
+  .poket_nav_area {
+    display: none;
+  }
+  ol {
+    padding-left: 10px;
+  }
+  /* New Top Menu css */
+  .all_header_abs {
+    position: inherit;
+  }
+  .single_header_address {
+    padding: 0;
+    padding-bottom: 25px;
+  }
+  .creative_header_address {
+    padding-left: 0px;
+  }
+  .cr_top_addess.top-address p {
+    text-align: center !important;
+  }
+  .brpt h2 {
+    font-size: 25px;
+  }
+  /* single blog */
+  .hackery-single-blog-details-inner {
+    padding: 38px 20px 45px;
+  }
+  .psylogy-single-blog-details-inner {
+    padding: 38px 25px 45px;
+  }
+  .block .wp-block-quote.is-large p,
+  .block .wp-block-quote.is-style-large p {
+    font-size: 18px;
+  }
+  /* swiper slider */
+  .witr_swiper_height {
+    height: 100vh;
+    background-position: center;
+  }
+  .text-left .witr_swiper_content p {
+    margin: 30px 0 5px;
+    font-size: 18px;
+  }
+  .w_slider_3 .witr_swiper_height {
+    transform: translateX(0) !important;
+  }
+  .w_slider_4 .witr_swiper_height {
+    margin-left: 0px !important;
+  }
+  .m1.witr_swiper_height {
+    width: 100% !important;
+  }
+  .witr_swiper_area .text-left .slider_vd_icon {
+    display: none;
+  }
+  .witr_swiper_area .text-right .slider_vd_icon {
+    left: 40% !important;
+    top: 12% !important;
+  }
+  .witr_swiper_area .text-center .slider_vd_icon {
+    top: 12%;
+  }
+  .witr_sw_text_area.text-right,
+  .witr_sw_text_area.text-left {
+    text-align: center !important;
+  }
+
+  .witr_sw_text_area {
+    width: 97%;
+  }
+  .swiper-button-prev,
+  .swiper-button-next {
+    display: none;
+  }
+  .witr_swiper_area .witr_btn {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .text-right .witr_swiper_content h1,
+  .text-left .witr_swiper_content h1,
+  .text-center .witr_swiper_content h1 {
+    font-size: 20px;
+  }
+  .text-right .witr_swiper_content h2,
+  .text-right .witr_swiper_content h3,
+  .text-left .witr_swiper_content h2,
+  .text-left .witr_swiper_content h3,
+  .text-center .witr_swiper_content h2,
+  .text-center .witr_swiper_content h3 {
+    font-size: 25px;
+  }
+  .text-right .witr_swiper_content h1,
+  .text-right .witr_swiper_content h2,
+  .text-right .witr_swiper_content h3,
+  .text-right .witr_swiper_content p,
+  .text-left .witr_swiper_content h1,
+  .text-left .witr_swiper_content h2,
+  .text-left .witr_swiper_content h3,
+  .text-left .witr_swiper_content p,
+  .text-center .witr_swiper_content h1,
+  .text-center .witr_swiper_content h2,
+  .text-center .witr_swiper_content h3,
+  .text-center .witr_swiper_content p {
+    width: 98% !important;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+  }
+  .witr_swiper_content p {
+    font-size: 17px;
+  }
+  .text-right .witr_btn_sinner,
+  .text-left .witr_btn_sinner {
+    text-align: center !important;
+  }
+  /* new css */
+  .witr_containers {
+    width: 94%;
+  }
+  .witr_shape_item_inner {
+    display: none;
+  }
+  .title_p {
+    text-align: center;
+    width: 100%;
+  }
+  /* about area css */
+  .about-inner {
+    padding-right: 0;
+  }
+  .h2_about_content {
+    padding: 30px 0 0 0;
+    margin-right: 0;
+  }
+  .ab_middle_list {
+    display: inherit;
+    margin-right: 0;
+  }
+  .about_bg_area .witr_section_title_inner h3 {
+    padding: 0;
+  }
+  .about_content_inner {
+    padding-left: 0;
+  }
+  .about_content_inner {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 20px;
+  }
+  .about_witr_content_inner {
+    padding: 0px 10px 0px 15px;
+  }
+  .psylogy_work_area {
+    padding: 60px 0px 115px;
+  }
+  .psylogy_contact_area .witr_s_flex,
+  .call_to_action_area .witr_s_flex,
+  .psylogy_work_area .witr_s_flex {
+    display: inherit;
+  }
+  .psylogy_work_area .em-service-icon i {
+    margin-bottom: 21px;
+  }
+  /* skill area css */
+  .skill_progress_inner {
+    padding: 20px 0 100px;
+  }
+  /* call action area css */
+  .call_to_action_area .em-service-icon i {
+    width: 0px;
+  }
+  .about_left_inner img {
+    padding-right: 0;
+  }
+  .call_to_action_area .all_color_service h3,
+  .call_to_action_area .all_color_service h3 a {
+    font-size: 24px;
+  }
+  .call_to_action_area .all_color_service h3 {
+    padding: 0px 0px 0px 0px;
+  }
+  .footer-top {
+    text-align: center;
+  }
+  .psylogy_single_team_area .text_box {
+    padding: 10px 25px 31px 25px;
+  }
+  .single_team_right_inner {
+    padding-top: 30px;
+  }
+  .video-open-inline iframe {
+    height: 200px;
+  }
+  .my_account_inner input#vehicle1 {
+    width: 6%;
+  }
+  .company_experience_area .work_left_inner {
+    padding: 0px 0px 0px 0px;
+  }
+  .witr_s_flex2 .em-service-icon {
+    margin-left: 0px;
+  }
+  .witr_s_flex2 .em-service-icon img {
+    height: 100%;
+    margin-bottom: 20px;
+  }
+  .witr_service2_7 {
+    padding: 20px 11px 30px 20px;
+  }
+  .map_area iframe {
+    height: 390px;
+  }
+  .witr_ac_style,
+  .witr_ac_style::before {
+    font-size: 16px;
+  }
+  /* em-slider-title */
+  .em-slider-title {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .em-slider-sub-title {
+    font-size: 28px;
+    margin-bottom: 0;
+  }
+  .em-slider-descript {
+    display: none;
+  }
+  .em-slider-button {
+    display: none;
+  }
+  .em-nivo-slider-wrapper .nivo-controlNav {
+    display: none;
+  }
+  .text-left .em_slider_s2_content {
+    margin-right: auto;
+  }
+  .text-right .em_slider_s2_content {
+    margin-left: auto;
+  }
+  .em-slider-sub-title {
+    line-height: 32px;
+  }
+  .em_slider_inner.text-left,
+  .em_slider_inner.text-right {
+    text-align: center !important;
+  }
+  .em_slider_s2_image {
+    display: none;
+  }
+  /*========= banner area css ===========*/
+  .witr_banner_area {
+    height: 640px;
+  }
+  .witr_banner_content h1 {
+    font-size: 25px;
+  }
+  .witr_banner_content h2 {
+    font-size: 20px;
+  }
+  .witr_banner_content p {
+    font-size: 16px;
+    width: 87%;
+  }
+  .witr_banner_content.text-left,
+  .witr_banner_content.text-right {
+    text-align: center !important;
+  }
+  .witr_banner_content.text-left p,
+  .witr_banner_content.text-right p {
+    width: 100%;
+  }
+  .witr_banner_content.text-left {
+    margin-left: 0;
+  }
+  .witr_banner_content.text-right {
+    margin-right: 0;
+  }
+  .witr_video_butns {
+    display: block;
+    margin-top: 15px;
+  }
+  /* service details */
+  .menufacturing_area .service-item h3,
+  .menufacturing_area .service-item h3 a {
+    font-size: 21px;
+  }
+  .achiv_main .departmentList {
+    padding: 0;
+    margin: 0;
+  }
+  .em_real_state_area .departmentList {
+    margin: 0 0 30px;
+  }
+  /*=========== banner area 2 css ===============*/
+  .banner_area {
+    text-align: center;
+  }
+  .banner-content h1,
+  .banner-content h2,
+  .banner-content h3 {
+    font-size: 22px;
+  }
+  .witr_float .butn,
+  .witr_float .butn {
+    float: none;
+    display: block;
+    margin-bottom: 10px;
+    margin-right: 0;
+  }
+  .witr_btns2 {
+    display: block;
+    margin-top: 20px;
+  }
+  .banner-content form {
+    width: 100%;
+  }
+  .banner-content input {
+    width: 100%;
+  }
+  .banner-content button {
+    position: inherit;
+    margin-top: 20px;
+  }
+  .witr_deshboard {
+    margin-top: 30px;
+  }
+  /* animate_banner_area */
+  .animate_banner_area .text-center.banner-content p,
+  .animate_banner_area .text-right.banner-content p,
+  .animate_banner_area .text-left.banner-content p {
+    width: 100% !important;
+  }
+  /*=========== Slick area 2 css ===============*/
+  .witr_ds_content {
+    height: 500px !important;
+    background-size: cover;
+    background-position: center left;
+    overflow: hidden;
+  }
+  .text-right .witr_ds_content_inner h1,
+  .text-right .witr_ds_content_inner h2,
+  .text-right .witr_ds_content_inner h3,
+  .text-right .witr_ds_content_inner p,
+  .text-left .witr_ds_content_inner h1,
+  .text-left .witr_ds_content_inner h2,
+  .text-left .witr_ds_content_inner h3,
+  .text-left .witr_ds_content_inner p,
+  .text-center .witr_ds_content_inner h1,
+  .text-center .witr_ds_content_inner h2,
+  .text-center .witr_ds_content_inner h3,
+  .text-center .witr_ds_content_inner p {
+    width: 100% !important;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+  }
+  .text-left .slider_vd_icon {
+    right: 40% !important;
+    top: -18% !important;
+  }
+  .text-right .witr_ds_content_inner h1,
+  .text-left .witr_ds_content_inner h1,
+  .text-center .witr_ds_content_inner h1 {
+    font-size: 20px;
+  }
+  .text-right .witr_ds_content_inner h2,
+  .text-right .witr_ds_content_inner h3,
+  .text-left .witr_ds_content_inner h2,
+  .text-left .witr_ds_content_inner h3,
+  .text-center .witr_ds_content_inner h2,
+  .text-center .witr_ds_content_inner h3 {
+    font-size: 25px;
+  }
+  .text-right .slider_vd_icon {
+    left: 40% !important;
+    top: -18% !important;
+  }
+  .witr_slicks_title h4 {
+    font-size: 65px !important;
+  }
+  .witr_btn {
+    margin-right: 0;
+  }
+  .slider_btn {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .witr_section_title_inner h2 {
+    font-size: 17px !important;
+    padding-top: 10px;
+  }
+  .section-title.t_center {
+    width: 100%;
+  }
+  .section-title.t_left {
+    width: 100%;
+  }
+  .section-title.t_right {
+    width: 100%;
+  }
+  .carosol_area .witr_section_title_inner h1,
+  .carosol_area .witr_section_title_inner h2,
+  .carosol_area .witr_section_title_inner h3 {
+    font-size: 21px;
+    margin-top: 60px;
+  }
+  /* single team css */
+  .single_team_info_area .single_team_right_inner {
+    padding: 20px 0 0 0;
+  }
+  /* tutor */
+  .tutor-course-archive-filters-wrap {
+    margin-top: 25px;
+  }
+  .top-address p a,
+  .top-right-menu ul.social-icons li a,
+  .top-address p span {
+    font-size: 13px;
+  }
+  .sub-border-2.all_feature_color {
+    text-align: center;
+  }
+  /* choose area css */
+  .psylogy_choose_area h1.divider_text {
+    margin-left: 40px;
+  }
+  .psylogy_choose_area h1.divider_text::before {
+    width: 12%;
+    left: -40px;
+  }
+  .psylogy_choose_area .all_icon_color i,
+  .psylogy_choose_area .em-service2.sleft .em-service-icon {
+    margin: 2px 14px 5px 0;
+  }
+  /* real state area css */
+  .em_real_state_area .witr_text_widget_inner h2 {
+    padding: 0 0 10px 0;
+    font-size: 26px;
+  }
+  /* footer bar */
+  .footer-top-inner p {
+    width: 100%;
+  }
+  .footer-menu ul {
+    margin: 10px 0 0;
+    text-align: center !important;
+  }
+  .footer-menu ul li a {
+    font-size: 14px;
+  }
+  .copy-right-text p {
+    text-align: center;
+  }
+  .footer-bottom:before {
+    width: 100%;
+  }
+  .breadcumb-blog-area {
+    padding: 50px 0;
+  }
+  /* blog css */
+  .em-blog-content-area {
+    padding: 20px 10px 5px;
+  }
+  .psylogy-blog-meta-left a,
+  .psylogy-blog-meta-left span {
+    font-size: 14px;
+    margin-right: 3px;
+  }
+  .psylogy-blog-meta-right a,
+  .psylogy-blog-meta-right span {
+    font-size: 11px;
+    margin-left: 3px;
+  }
+  .witr_ablog_content h2 a {
+    font-size: 18px;
+  }
+  /* single blog */
+  .psylogy-single-blog-details-inner {
+    padding: 38px 30px 45px;
+  }
+  .psylogy-single-icon-inner a {
+    margin-bottom: 5px;
+  }
+  .post_reply ul,
+  .blog-content ul,
+  .single-blog-content ul {
+    padding-left: 20px;
+  }
+  .post_reply ol,
+  .blog-content ol,
+  .single-blog-content ol {
+    padding-left: 20px;
+  }
+  .comments-area .children {
+    margin-left: 10px;
+  }
+  .comment_field .input-field {
+    width: 100%;
+  }
+  .pdsr {
+    padding-top: 50px;
+  }
+  .pdsl {
+    padding-bottom: 90px;
+  }
+  #wp-calendar {
+    display: block;
+  }
+  /* single service css */
+  .single_service_area .witr_text_widget_inner h2 {
+    font-size: 24px;
+  }
+  /* footer css */
+  .copy-right-text p {
+    font-size: 11px;
+  }
+  .footer-social-icon a i {
+    font-size: 16px;
+    height: 35px;
+    line-height: 35px;
+    width: 35px;
+  }
+  /* Em-Creative Header */
+  .creative_header_curve {
+    display: none;
+  }
+  .creative_header_logo {
+    padding-right: 0;
+    text-align: center;
+  }
+  .em_creative_header {
+    background: transparent none repeat scroll 0 0;
+    z-index: 999;
+  }
+  .single_header_address {
+    text-align: center;
+  }
+  .creative_header_button {
+    padding-bottom: 30px;
+    position: relative;
+    text-align: center;
+  }
+  .creative_header_icon {
+    float: none;
+    margin-bottom: 10px;
+    margin-right: 0;
+    overflow: hidden;
+  }
+  .creative_header_address .col-sm-4.col-xs-12 {
+    padding-left: 0;
+  }
+  .creative_header_logo {
+    display: none;
+  }
+  .creative_header_button:before,
+  .em_creative_header:before,
+  .em_creative_header:after {
+    display: none;
+  }
+  /* new css */
+  /* footer css */
+  .copy-right-text p {
+    font-size: 15px;
+  }
+  .psylogy-blog-thumb img {
+    width: 100%;
+  }
+  /* menu list css */
+  .menu_list_inner {
+    display: inherit;
+  }
+  /* countdown css */
+  .countdown_area2 .witr_section_title_inner.text-center p {
+    width: 100%;
+  }
+  .countdown_area3 span.cdowns {
+    height: 100px;
+    margin-bottom: 30px;
+  }
+  .countdown_area3 {
+    padding: 85px 0 50px;
+  }
+  /* section title css */
+
+  .title_in_area {
+    display: inherit;
+  }
+  .title_in:before,
+  .title_in:after {
+    background: none;
+  }
+  .title_tx h2 {
+    font-size: 16px;
+  }
+  .title_p {
+    padding-left: 0;
+  }
+  .title_in_area,
+  .witr_section_title_inner.text-center p,
+  .witr_section_title_inner.text-left p,
+  .witr_section_title_inner.text-right p {
+    width: 100%;
+  }
+  .contact_page_area .witr_section_title_inner.text-left p {
+    width: 100%;
+  }
+  .psylogy_service_area .witr_section_title_inner.text-left p {
+    width: 100%;
+  }
+  .witr_section_title_inner p {
+    padding-top: 10px;
+  }
+  .witr_section_title {
+    text-align: center;
+  }
+  .witr_section_title .text-right {
+    text-align: center !important;
+  }
+  .title_btn {
+    margin: 30px 0 20px;
+  }
+  .witr_section_title_inner h1,
+  .witr_section_title_inner h2,
+  .witr_section_title_inner h3 {
+    font-size: 21px;
+  }
+  .progress_area3 .witr_single_progress {
+    margin-bottom: 30px;
+  }
+  .circle_progress_area .witr_circle_area {
+    margin-bottom: 50px;
+  }
+  .map_inner iframe {
+    height: 400px;
+  }
+  /* about css */
+  .ab_img_inner {
+    padding: 0;
+  }
+  .ab_left_video {
+    margin-right: 0;
+    margin-left: 15px;
+  }
+  .ab_middle_img {
+    margin: 10px 0 10px 0px;
+  }
+  .psylogy_about_image_inner {
+    margin-top: 40px;
+  }
+  .psylogy_about_image_inner img {
+    padding-right: 0;
+  }
+  .about_service_inner {
+    display: inherit;
+  }
+  .witr_text_widget_inner p,
+  .about-content span {
+    font-size: 16px;
+  }
+  .ab_left_content {
+    padding: 0 0 35px 0;
+  }
+  /* feature area */
+  .h5_fbar1 .witr_bar_main {
+    margin: -10px 0 0 180px;
+  }
+  .h5_fbar2 .witr_bar_main {
+    margin: -10px 0 0 120px;
+  }
+  .h5_fbar3 .witr_bar_main {
+    margin: -10px 0 0 150px;
+  }
+  .h4_feature_area .sub-item i {
+    margin: 0px 0px 0px 175px;
+  }
+  .h4_left_counter {
+    margin: 15px 0px 0 0px;
+  }
+  .h4_left_counter .all_counter_color h3 {
+    font-size: 110px;
+  }
+  .h4_left_counter .wirt_new_iner {
+    float: inherit;
+  }
+  .h4_left_counter .witr_counter_number_inn h4 {
+    padding: 0;
+  }
+  .h4_ab_midd_counter {
+    display: inherit;
+  }
+  .sub-item {
+    padding: 60px 30px 50px 30px;
+  }
+  .psylogy_feature_area .heading-title {
+    font-size: 18px;
+  }
+  .psylogy_feature_area .col-lg-2 {
+    padding-left: 15px;
+  }
+  .em_feature-icon {
+    font-size: 18px;
+  }
+  .em_feature-icon i {
+    float: none;
+  }
+  .em-feature-title h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .witr_feature_content_3d h3 {
+    font-size: 21px;
+  }
+  .sub-item h3 {
+    font-size: 21px;
+  }
+  .w_apps_button_area {
+    text-align: center;
+  }
+  .witr_app_area .digital-content h3 {
+    margin: 0 !important;
+    font-size: 25px;
+  }
+  .feature_inner_box {
+    text-align: center;
+  }
+  .witr_button_area {
+    margin-top: 0;
+  }
+  .ca_ferture_7 .sub-item {
+    padding: 30px 15px 30px;
+  }
+  .sub-item h3 a {
+    font-size: 21px;
+  }
+  .feat_left_inner {
+    padding: 0;
+    margin-bottom: 30px;
+  }
+  .h3_feature_area .all_icon_color img {
+    margin: 0 0 10px 0;
+  }
+  /* Screenshots css */
+  .dnSlide-main.done {
+    transform: scale(0.4);
+    margin-left: -280px;
+    top: -120px;
+  }
+  .Screenshots-fearm img {
+    width: 260% !important;
+    max-width: 260% !important;
+    left: -65px;
+  }
+  .dnSlide-main img {
+    width: 100%;
+  }
+  .dnSlide-btn {
+    display: none;
+  }
+  .Screenshots-area .Screenshots-frame-img {
+    left: -64%;
+    top: -13px;
+    width: 232%;
+  }
+  .digital-item ul li a {
+    padding: 7px 27px;
+  }
+  .mobil-item {
+    margin-top: 30px;
+  }
+  /* video bg area css */
+  .h2_video_area {
+    margin: 0 10px 0 10px;
+    padding: 0;
+  }
+  .metp_video_area .psylogy_content h2,
+  .metp_video_area .psylogy_content h3 {
+    font-size: 21px;
+  }
+  .left_content_inner {
+    margin-left: 0;
+    padding-top: 0;
+    margin-bottom: 30px;
+  }
+  /* countdown css */
+  span.cdowns {
+    margin-bottom: 30px;
+  }
+  span.cdowns:before {
+    display: none;
+  }
+  span.cdowns:after {
+    display: none;
+  }
+  .psylogy_project_area .witr_button_area {
+    margin-top: 30px;
+  }
+  .carosol_area .witr_btn {
+    margin-top: 40px !important;
+  }
+  /* testomonial css */
+  .psylogy_count_area {
+    padding: 350px 0 85px 0;
+  }
+  .psylogy_testimonial_area2 {
+    padding: 85px 0px 70px;
+  }
+  .testomonial.testomonial-5 .test-part img.testimg {
+    top: 88%;
+  }
+  .testomonial .test-part img {
+    margin: 0 !important;
+  }
+  .em_test_thumb {
+    margin-right: 15px;
+  }
+  .em_testi_title h2 {
+    font-size: 20px;
+  }
+  .witr_content_test7 {
+    padding: 0;
+  }
+  /* testomonial css */
+  .psylogy_test_area2 .em_single_testimonial {
+    padding: 37px 25px 26px;
+  }
+  .witr_testi_s10 .test_q_icon i {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  /* .sub-border-2 i,
+  .feature_topicon_post {
+    left: 60px;
+  } */
+  .witr_testomonial_area {
+    width: 100%;
+  }
+  .witr_test_part {
+    float: none;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .witr_test_part img {
+    margin: auto;
+  }
+  .witr_testi_main {
+    width: 100%;
+  }
+  .menufacturing_video_area .video-open-inline iframe {
+    height: 400px;
+  }
+  /* brand area css */
+  .h3_brand_area {
+    padding: 65px 30px 90px 30px;
+  }
+  .psylogy_brand_area {
+    padding: 0;
+  }
+  .carousel_imagess_area {
+    padding: 55px 0 65px 0;
+  }
+  .psylogy_brand_area .witr_section_title_inner h3 {
+    font-size: 25px;
+  }
+  .psylogy_brand_area .witr_section_title_inner h1 {
+    font-size: 25px;
+  }
+  .psylogy_brand_area .witr_section_title {
+    margin-bottom: 20px;
+  }
+  .h4_brand_inner {
+    padding: 53px 15px 68px 15px;
+  }
+  .h4_brand_area {
+    padding: 0;
+  }
+  /* service css */
+  .service_left_inner {
+    margin: 20px 15px 15px 15px;
+  }
+  .em-service2 .em-service-icon i {
+    margin-bottom: 15px;
+  }
+  .service-item {
+    text-align: center;
+  }
+  .witr_service2_toggle,
+  .witr_s_flex {
+    display: inherit;
+  }
+  .wirt_s2_s9 .witr_titles {
+    margin-top: 10px;
+  }
+  .witr_service2_box {
+    text-align: center;
+  }
+  .witr_custom2_icon {
+    float: none;
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+  .witr_service3_box {
+    text-align: center;
+  }
+  .witr_service3_icon {
+    float: none;
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+  .wirt_new_iner {
+    float: none;
+    margin-right: 0;
+  }
+  .witr_2service_content {
+    display: inherit;
+  }
+  .witr_service7s_image img {
+    width: auto;
+  }
+  .witr_service2_7 .witr_titles_content {
+    margin-top: 20px;
+  }
+  .wirt_detail_icon {
+    float: none;
+    margin-right: 0px;
+    margin-bottom: 5px;
+  }
+  /* work area css */
+  .h2_work_area {
+    padding: 0 15px 70px 15px;
+  }
+  .work_wirt_inner {
+    margin: 0 0 0 -15px;
+  }
+  .h2_work_area .icon-list-icon + .icon-list-text {
+    font-size: 15px;
+  }
+  /* service area css */
+  .witr_service_s_12:hover .text_box {
+    bottom: -10px;
+  }
+  .service_content_inner {
+    padding: 20px 0 0;
+  }
+  .serivce_item_inner {
+    display: inherit;
+  }
+  /* tab css */
+  .h2_tab_area .witr_adv_tab_area {
+    display: inherit;
+  }
+  .tab_midd_cont .witr_section_title_inner h3 {
+    font-size: 25px;
+  }
+  .tab_middle_ser .service-item {
+    padding: 0;
+  }
+  .inner_area {
+    margin: 0;
+  }
+  .tab_content_inner {
+    padding: 40px 4px 25px;
+  }
+  .tab_image_inner {
+    margin-top: 30px;
+    margin-right: 0;
+  }
+  .psylogy_tab li {
+    margin-bottom: 20px;
+  }
+  .witr_taba_style1 .nav-tabs .nav-link {
+    margin-right: 0px;
+  }
+  .nav-tabs {
+    justify-content: center !important;
+  }
+  .tab_content_inner2 {
+    padding: 0 0 20px 0;
+  }
+  .tab_left_content {
+    margin-bottom: 30px;
+  }
+  /* accourdion css */
+  .faq_inner {
+    padding: 0;
+  }
+  .psylogy-accourdion-title h2 {
+    font-size: 14px;
+    padding-left: 20px;
+  }
+  /* blog css */
+  .blog-img img {
+    width: 100%;
+  }
+  .witr_blog_con h2 {
+    font-size: 21px;
+  }
+  .witr_post_Author {
+    margin: 0 10px;
+  }
+  .recent-post-image {
+    float: none;
+  }
+  /* counter css */
+  .counter_area .wirt_new_iner {
+    float: inherit;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  .counter_inner {
+    display: inherit;
+    justify-content: inherit;
+    margin-right: -15px;
+  }
+  .counter_inner .all_counter_color i,
+  .counter_inner .witr_counter_img {
+    margin: 0 0 20px 0;
+  }
+  .witr_custom_icon {
+    float: inherit;
+  }
+  .counter_inner .witr_counter_single {
+    text-align: center;
+  }
+  /* video css */
+  .h3_video_left {
+    padding: 100px 10px 100px 10px;
+  }
+  .video-play-6 {
+    width: 80%;
+  }
+  .subscribe form input {
+    width: 500px;
+  }
+  .download-content-6 ul li a {
+    padding: 12px 46px 12px 80px;
+  }
+  .donwload-overlay {
+    padding-top: 215px;
+  }
+  .video-part .video-overlay .video-item h3 {
+    font-size: 25px;
+  }
+  .video-part .video-overlay {
+    padding: 110px 0px;
+  }
+  .play-overlay {
+    top: 50% !important;
+    left: 50% !important;
+  }
+  .witr_videos_title_text {
+    display: none;
+    width: 100% !important;
+  }
+  .digital-img {
+    margin-top: 100px;
+  }
+  .video_left_inner {
+    margin-left: 0;
+    margin-bottom: 15px;
+  }
+  .tab_video_inner {
+    padding-left: 0;
+    margin-bottom: 20px;
+  }
+  /* work area css */
+  .work_left_inner {
+    margin-bottom: 20px;
+  }
+  /* call action css */
+  .cal_to_toggole {
+    display: inherit;
+  }
+  .psylogy_button.no_margin {
+    width: 100%;
+    text-align: center !important;
+    margin-top: 30px;
+  }
+  .psylogy_content.col_content_width_100 {
+    text-align: center !important;
+  }
+  .call_button_inner {
+    padding: 30px 0 0;
+  }
+  .psylogy_button a {
+    margin-bottom: 30px;
+  }
+  /* contact css */
+  .h2_call_area .witr_section_title_inner h3 {
+    font-size: 16px;
+  }
+  .h2_contact_inner {
+    padding: 55px 15px 55px 15px;
+  }
+  .mc4wp-form-fields button {
+    width: 35%;
+  }
+  .psylogy_contact_area .map_inner iframe {
+    height: 450px;
+  }
+  .contact_area .apartment_text h1 {
+    font-size: 23px;
+  }
+  .psylogy_cont_area .apartment_area {
+    margin-top: 20px;
+  }
+  .psylogy_cont_area .apartment_text h2 {
+    font-size: 30px;
+  }
+  .psylogy_contact_area .witr_section_title_inner.text-center p {
+    width: 100%;
+  }
+  .contact_inner {
+    margin-right: 0;
+  }
+  .contact_witr_inner {
+    padding: 0;
+  }
+  .field.topfield .form-field {
+    float: none;
+    width: 100%;
+  }
+  .form-controls .field.topfield .form-field:nth-child(2n) {
+    margin-left: 0;
+  }
+  .witr_field1 .witr_form_field1 {
+    width: 100%;
+  }
+  .witr_form_controls1 .witr_field1 .witr_form_field1:nth-child(2n) {
+    margin-left: 0;
+  }
+  .psylogy_contact_area2 .contact_inner {
+    padding: 0;
+  }
+  .psylogy_contact_area2 .apartment_area {
+    margin-bottom: 30px;
+  }
+  .psylogy_contact_area2 .em-service-title h3 {
+    padding: 15px 0 0;
+  }
+  /* apps_button css */
+  .w_apps_button_image {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+  .tab_content.text-left {
+    text-align: center !important;
+  }
+  /* blog css */
+  .footer-middle {
+    text-align: center;
+  }
+  .blog-content h5 > a {
+    font-size: 17px;
+  }
+  .blog-content span {
+    font-size: 12px;
+  }
+  .blog-page-title h2 {
+    font-size: 17px;
+  }
+  .wblog-content h5 > a {
+    font-size: 20px;
+  }
+  .wblog-content span {
+    margin-right: 5px;
+  }
+  .blog-left-side .blog-title > ul > li > a {
+    margin-right: 8px;
+  }
+  .widget .widget_media_image img {
+    width: 100%;
+  }
+  .recent-post-text > h4 {
+    margin-top: 2px;
+    line-height: 1;
+  }
+  .recent-post-text h4 a {
+    font-size: 15px;
+  }
+  .witr_blog_con6 h2 a {
+    font-size: 19px;
+  }
+  .witr_blog_con6 h5 a {
+    font-size: 15px;
+  }
+  .witr_blog_area8 .witr_blog_con6 p {
+    display: none;
+  }
+  /* call to action */
+  .call_inner {
+    padding: 70px 10px 64px 7px;
+  }
+  .psylogy_video_area {
+    padding: 0;
+  }
+  .call_inner .witr_section_title_inner h3 {
+    font-size: 20px;
+  }
+  .psylogy_call_action .em_service_content {
+    padding: 0 0px 15px 0px;
+  }
+  .psylogy_call_action .all_color_service h3,
+  .psylogy_call_action .all_color_service h3 a {
+    font-size: 20px;
+  }
+  .psylogy_content.text-right,
+  .psylogy_content.text-left {
+    text-align: center !important;
+  }
+  .psylogy_button.no_margin {
+    width: 100% !important;
+  }
+  .psylogy_content p {
+    width: 100% !important;
+  }
+  .psylogy_video_inner {
+    top: 21px;
+  }
+  .psylogy_video11.psylogy_video_inner {
+    top: 50%;
+  }
+  .psylogy_content h5 {
+    font-size: 18px;
+  }
+  .psylogy_button a {
+    margin-bottom: 15px;
+    margin-right: 0px;
+  }
+  .psylogy_content h2,
+  .psylogy_content h3 {
+    font-size: 21px;
+  }
+  .witr_5 .psylogy_content p,
+  .witr_6 .psylogy_content p {
+    width: 72%;
+    padding: 15px 0px 30px;
+  }
+  .witr_9 .psylogy_video_inner {
+    margin-bottom: 73px;
+  }
+  .witr_b9 {
+    margin-top: -10px;
+  }
+  .psylogy_content {
+    margin-bottom: 30px;
+  }
+  /* shortcode_content */
+  .witr_shortcode_inner {
+    padding: 73px 10px 63px !important;
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  .witr_shortcode_inner .mc4wp-form-fields input {
+    width: 100%;
+  }
+  .shortcode_content h2 {
+    font-size: 18px !important;
+  }
+  .witr_joined .witr_con_btn2 .w_btn2 {
+    position: inherit;
+    width: 100%;
+  }
+  .witr_sstyle_9 {
+    padding: 42px 20px 50px;
+  }
+  .w_apps_button {
+    margin-bottom: 30px;
+  }
+  /* choose area css */
+  .choose_left_inner {
+    margin: 0;
+  }
+  /* single portfolio2 */
+  .prot_content h3 a {
+    font-size: 21px;
+  }
+  .portfolio-details-box {
+    margin-left: 0;
+  }
+  .portfolio-details-box ul li span.eright {
+    font-size: 15px;
+    margin-left: 0;
+  }
+  .portfolio-details-box ul li b {
+    font-size: 15px;
+  }
+  .portfolio-details-box h2 {
+    padding-top: 20px;
+  }
+  .portfolio-details-box .psylogy-single-icon-inner a {
+    margin: 0 4px;
+  }
+  .h3_project_area {
+    padding: 0 0 10px 0;
+  }
+  /* single_protfolio css */
+  .portfolio_nav ul li {
+    padding: 6px 20px;
+  }
+  .netl_project_area {
+    padding: 0;
+  }
+  .page-numbers,
+  .tutor-pagination-wrap a,
+  .tutor-pagination-wrap span.page-numbers.current,
+  a.page-numbers {
+    margin-right: 0;
+  }
+  .witr_content_pslide_text a {
+    font-size: 20px;
+  }
+  .positi_3.pprotfolio4 {
+    padding: 10px 10px 10px;
+  }
+  .porttitle_inner4 h3 a {
+    font-size: 20px;
+  }
+  /* contact css */
+  .witr_field2 .witr_form_field2,
+  .witr_field2 .witr_form_field2 {
+    float: none;
+    width: 100%;
+  }
+  .witr_form_controls2 .witr_field2 .witr_form_field2:nth-child(odd),
+  .witr_form_controls2 .witr_field2 .witr_form_field2:nth-child(odd) {
+    margin-right: 0;
+  }
+  .psylogy_contact_area iframe {
+    height: 500px;
+  }
+  .contact_left_content {
+    padding: 0px 0 20px 0;
+  }
+  /* display none css*/
+  .owl-nav,
+  .slick-prev,
+  .slick-next,
+  .em-nivo-slider-wrapper .nivo-directionNav {
+    display: none;
+  }
+  /* timeline css*/
+  .witr_sicon_bottom.witr_hd_timeline_contant {
+    padding-bottom: 20px;
+    padding-top: 30px;
+  }
+  .mrl65 {
+    margin-left: 16px;
+    padding-top: 25px;
+  }
+  .mrl110 {
+    margin-left: 17px;
+    padding-top: 25px;
+  }
+  .mrr90 {
+    margin-right: 15px;
+  }
+  .mrr50 {
+    margin-right: 14px;
+  }
+  .mrr15 {
+    margin-right: 14px;
+  }
+  /* static tab css*/
+  .psylogy_event_thumb {
+    float: none;
+    margin-bottom: 15px;
+  }
+  .psylogy_single_event {
+    margin: 0;
+  }
+  .psylogy_event_icon span {
+    margin-right: 5px;
+  }
+  .event_display_flex {
+    display: initial;
+  }
+  .wite_event_box {
+    margin-left: 0;
+  }
+  #sb_instagram .sbi_photo_wrap {
+    margin-bottom: 25px;
+  }
+  .testomonial-slide .slick-prev,
+  .blog_wrap .slick-prev {
+    left: 15px;
+  }
+  .testomonial-slide .slick-next,
+  .blog_wrap .slick-next {
+    right: 15px;
+  }
+  .em-feature {
+    margin-bottom: 23px;
+  }
+  .single_counter {
+    margin-bottom: 20px;
+  }
+  .h2_test_area .em_single_testimonial {
+    padding: 20px 0 26px;
+  }
+  .h2_test_area {
+    padding: 0 0 80px;
+  }
+  /* progress area css */
+  .progress_area3 {
+    padding: 95px 0 80px;
+  }
+  .witr_circle_area {
+    margin: 0px 25px 30px 25px;
+  }
+  .psylogy-header-top {
+    display: none;
+  }
+  .accordion_area {
+    padding-bottom: 30px;
+  }
+  .psylogy_accordion_area .witr_section_title_inner p {
+    margin-top: 0px;
+  }
+  .footer-sociala-icon {
+    float: none;
+  }
+  .footer-sociala-info p {
+    text-align: center;
+  }
+  /*====== new css ======= */
+  /* ab_videoArea */
+  .ab_videoArea {
+    padding: 44px 23px 40px;
+  }
+  .singleAbSlide {
+    position: inherit;
+    bottom: -30px;
+    right: 0;
+    left: 0;
+  }
+  /* service */
+  .h5_serv_area .witr_btn_sinner {
+    text-align: center;
+  }
+  .psylogy_serv_area {
+    padding: 0 0px 60px 0px;
+  }
+  .detail_SS h3 {
+    font-size: 21px;
+  }
+  .em_testi_logo {
+    right: 15px;
+    top: 35px;
+    display: none;
+  }
+  .testimonial_post_13 {
+    display: inherit !important;
+  }
+  .test_text_all {
+    padding: 25px 6px 26px;
+  }
+  /* icon_section */
+  .text-left .icon_section {
+    left: 19%;
+  }
+  .text-right .icon_section {
+    right: 45px;
+    bottom: -15%;
+  }
+  .witr_nth_child:nth-child(2n) {
+    margin-top: 0;
+  }
+  /* single_image */
+  .single_image {
+    left: 0 !important;
+  }
+  .single_image img {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  .witr_tx_ovei_title {
+    position: inherit;
+    right: auto;
+    left: auto;
+    top: auto;
+    padding: 30px;
+    width: 100%;
+    border-radius: 0px;
+  }
+  /* about css */
+  .h4_about_area .witr_btn {
+    margin-bottom: 40px;
+  }
+
+  .witr_text_widget_inner h1,
+  .witr_text_widget_inner h2 {
+    font-size: 22px;
+  }
+  .witr_text_widget_inner h1 {
+    font-size: 17px;
+  }
+  .testimonial-meta-inner {
+    display: inherit;
+  }
+  .testimonial-meta .icon-list-item > .icon-list-text {
+    margin-top: 25px;
+  }
+  .testimonial-meta-inner {
+    margin-bottom: 20px;
+  }
+  .witr_play_vi.witr_all_color_v {
+    margin-left: 0;
+    margin-bottom: 30px;
+  }
+  .testimonial-meta-inner .em-service2.sleft.all_color_service {
+    margin-left: 0;
+    margin-top: 30px;
+  }
+  .ab_image_inner {
+    margin-bottom: 20px;
+  }
+  .testimonial-meta-inner .em-service-title h3 {
+    padding: 0;
+  }
+  .h4_test_inner {
+    margin-right: 0;
+  }
+  .h4_test_inner .witr_section_title_inner.text-center p {
+    width: 100%;
+  }
+  .testomonial .test-part.witr_testi_s_11 {
+    padding: 30px 10px 20px 10px;
+  }
+  .h4_test_inner .all_color_testimonial p {
+    font-size: 19px;
+  }
+  .witr_about_content {
+    text-align: center;
+  }
+  .witr_about_content h3 {
+    font-size: 30px;
+  }
+  .witr_about_image {
+    margin-top: 30px;
+  }
+  .witr_service3_box {
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    left: 50%;
+    padding: 0;
+  }
+  .em_slider_social {
+    top: 40%;
+    display: none;
+  }
+  /* contact area css */
+  .psylogy_contact_area {
+    padding: 100px 0px 50px 0px;
+    margin: 0;
+  }
+  .h4_contact_area .h2_contact_inner {
+    margin-left: 0;
+  }
+  .cont_page_cont_area .cont_page_Cont {
+    margin: 0;
+    margin-right: 0;
+  }
+  .cont_page_cont_area .map_inner iframe {
+    height: 500px;
+  }
+  /* team css */
+  .h5_team .witr_section_title {
+    padding: 0 0 0 50px;
+  }
+  .h4_team_area {
+    margin: 0;
+  }
+  .h3_team_left {
+    padding: 0;
+  }
+  .h3_team_witr {
+    padding: 20px 15px 0 0;
+  }
+  .witr_team_content4 {
+    padding: 15px 25px 13px;
+  }
+  .team_area3 .witr_section_title_inner h1,
+  .team_area3 .witr_section_title_inner h3 {
+    font-size: 25px;
+  }
+  .witr_back_img img {
+    height: 554px !important;
+    height: auto;
+  }
+  .team_single_content h3 {
+    font-size: 30px;
+    margin-top: 20px;
+  }
+  /* new css add */
+  .witr_dis_btngr {
+    display: inherit;
+  }
+  .witr_circal_r {
+    margin-left: 0;
+  }
+  .witr_event_style_5 .witr_event_d {
+    padding-top: 3px;
+  }
+  .witr_event_style_5 .witr_event_btn {
+    margin-top: 5px;
+  }
+  .witr_event_style_7 .event-page-title_adn {
+    padding-top: 0;
+  }
+  .single_admin img {
+    display: none;
+  }
+  .witr_event_style_7 .witr_event_btn {
+    text-align: left;
+    margin-top: 20px;
+  }
+  .witr_appoimentle {
+    position: initial !important;
+  }
+  /* ps sliser */
+  .witr_content_pslide_text h3 {
+    font-size: 19px;
+  }
+  .ps1 .witr_pslide_btnb {
+    float: none;
+    margin-top: 0;
+  }
+  .toggle_pslide {
+    display: inherit;
+  }
+  .witr_pslide5 .witr_content_pslide_text {
+    padding: 10px 15px 15px 15px;
+  }
+  .slick-prev,
+  .slick-next {
+    display: none !important;
+  }
+  #scrollUp {
+    bottom: 92px;
+    right: 30px;
+  }
+  .witr_blog_area10 .witr_blog_con {
+    padding-top: 12px;
+  }
+  .witr_blog_area16 .witr_blog_con {
+    padding: 20px 5px 25px 5px;
+  }
+  /* faq area css */
+  .faq_content_inner {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .faq_img_inner .single_image img {
+    margin-left: 0;
+    padding-right: 0;
+  }
+  .faq_content_inner .witr_section_title_inner h3 {
+    font-size: 24px;
+  }
+  .h3_faq_area .witr_section_title_inner h3 {
+    font-size: 26px;
+  }
+  .h3_faq_middle_ser {
+    display: inherit;
+  }
+  .h3_faq_middle_ser .all_icon_color img {
+    margin: 0 0 15px 0;
+  }
+  .h3_faq_area .witr_feed_news {
+    margin: 10px 0 30px;
+  }
+  .h3_faq_area .witr_feed_icons {
+    top: 28%;
+  }
+  /* skill area css */
+  .h3_skill_area {
+    margin-top: -50px;
+  }
+  .h3_skill_area {
+    padding: 120px 0px 405px 0px;
+  }
+  .h3_skill_content {
+    margin-left: 0;
+  }
+  .h3_skill_inner {
+    margin: 15px 0 0 0;
+  }
+  .skill_inner {
+    margin: 30px 0 0 0px;
+  }
+  .psylogy_skill_area {
+    padding: 100px 0 235px;
+  }
+  .skill_witr_inner {
+    margin-top: 50px;
+  }
+  /* about area */
+  .about-inner {
+    margin: 20px 0px 0px 0px;
+  }
+  .witr_section_title_inner p {
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 11px;
+  }
+  /* about area end */
+  /* Couns main area start */
+
+  .witr_content_pslide_text1 {
+    padding: 10px 15px !important;
+  }
+
+  /* Couns main area end */
+  .witr_ac_style {
+    font-size: 18px;
+  }
+  .qus-main {
+    padding: 90px 0px 0 0px;
+  }
+  .counter-main {
+    margin-top: 60px;
+  }
+  .witr_counter_single {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .witr_counter_icon {
+    float: none !important;
+  }
+  .all_color_team,
+  .all_feature_color {
+    transition: 0.5s;
+  }
+  .psylogy_content {
+    margin-bottom: 30px;
+  }
+  .all_cal_color {
+    text-align: center !important;
+  }
+  .psylogy_video_inner {
+    top: 46px;
+    right: -22px;
+  }
+  .em-service-icon {
+    margin: 0px 0px 10px 0px;
+  }
+  .service_top_text {
+    display: block;
+  }
+  .booking-inner {
+    padding: 30px 11px 30px 11px;
+    display: block !important;
+  }
+  .witr_button_area {
+    text-align: center;
+  }
+  .witr_btn {
+    margin: 0px 0px 0px 0px;
+    padding: 16px 30px 16px 30px;
+  }
+  .em-service-title h3 a {
+    font-size: 25px !important;
+  }
+  .em-service-title h3 {
+    margin-bottom: 10px;
+  }
+  .witr_button_area {
+    padding-top: 25px;
+  }
+  .all_color_testimonial p {
+    font-size: 15px;
+    padding: 0px 0px 0px 0px;
+  }
+  .testomonial-slide {
+    margin-top: 20px;
+  }
+  .social-icons {
+    text-align: center;
+  }
+  .witr_ds_content {
+    height: 100vh !important;
+    background-size: cover;
+    overflow: hidden;
+  }
+  .slider_btn .witr_btn {
+    margin-bottom: 10px;
+  }
+  /* About page */
+
+  .breadcumb-area {
+    padding: 100px 0 !important;
+  }
+  .breadcumb-inner ul {
+    font-size: 14px;
+  }
+  .brpt.brptsize h2 {
+    font-size: 24px;
+    line-height: 1;
+  }
+  .writ_ac_style_02:before {
+    display: block;
+  }
+  .writ_ac_style_02:focus::before {
+    display: block;
+  }
+  .testiCreCon p {
+    font-size: 15px;
+    padding: 0;
+  }
+  .testAuthor h6 {
+    font-size: 20px;
+  }
+  .testAuthor span {
+    font-size: 16px;
+  }
+  .witr_feature_13 .sub-item:before {
+    top: 114px;
+  }
+  .witr_feature_13.sub-border-2 .sub-item span {
+    top: 46px;
+  }
+  /* Specailest area start */
+
+  .em-service-inner {
+    padding-left: 0;
+    margin-bottom: 40px;
+  }
+  /* Benifit area start */
+
+  .black_bg {
+    background: #000;
+    padding: 50px 10px 50px 10px;
+  }
+  .black_bg .witr_section_title_inner h3 {
+    padding-right: 0;
+  }
+  .beni_pic {
+    display: none;
+  }
+  /* Index Contact */
+  .contact_bg {
+    background: transparent;
+    padding: 20px 0 !important;
+  }
+  /* Blog area start */
+  .blog_main {
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding: 100px 0;
+  }
+  /* Cart area start */
+
+  .woocommerce table.shop_table_responsive tr td {
+    display: block;
+    text-align: right !important;
+  }
+  .shop_table_responsive thead {
+    display: none;
+  }
+  .woocommerce table.shop_table_responsive tr td::before,
+  .woocommerce-page table.shop_table_responsive tr td::before {
+    content: attr(data-title) ": ";
+    font-weight: 700;
+    float: left;
+  }
+  .woocommerce table.shop_table_responsive tr:nth-child(2n) td,
+  .woocommerce-page table.shop_table_responsive tr:nth-child(2n) td {
+    background-color: rgba(0, 0, 0, 0.025);
+  }
+  .woocommerce .cart-collaterals .cart_totals {
+    width: 100%;
+    float: none;
+    text-align: left;
+  }
+  .wc-proceed-to-checkout a.checkout-button {
+    font-weight: 700;
+  }
+  .pay_sub_btn button {
+    width: 100%;
+  }
+
+  /* Cart area end */
+  /* Index Contact Button */
+  .contact_form button {
+    width: 60%;
+  }
+}
+/* ------------------------------------------------- Large Mobile :480px. ---------------------------------------------------*/
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .em-slider-button {
+    display: block;
+  }
+  .em-nivo-slider-wrapper .nivo-directionNav {
+    display: block;
+  }
+  .em-button-button-area a {
+    margin-right: 5px;
+    margin-top: 15px;
+    padding: 3px 20px;
+    font-size: 12px;
+  }
+  .slider_btn .witr_btn.active {
+    margin-left: 15px;
+  }
+  /* faq area2 css */
+  .accordion_area2 .witr_ac_style {
+    margin-left: 20px;
+  }
+  /*=========== banner area 2 css ===============*/
+  .banner-content button {
+    position: absolute;
+  }
+  /* portfolio css */
+  .portfolio_nav ul li {
+    margin: 0 2px 10px;
+  }
+  /* banner area css */
+  .witr_banner_area {
+    height: 600px;
+  }
+  .witr_banner_content.text-right p {
+    width: 92%;
+    margin: auto;
+    font-size: 17px;
+  }
+  .witr_banner_content.text-left p {
+    width: 92%;
+    margin: auto;
+    font-size: 17px;
+  }
+  /* section_title */
+  .witr_section_title_inner h1,
+  .witr_section_title_inner h2,
+  .witr_section_title_inner h3 {
+    font-size: 25px;
+  }
+  .witr_section_title_inner.text-center p,
+  .witr_section_title_inner.text-left p,
+  .witr_section_title_inner.text-right p {
+    width: 91%;
+  }
+  /* text_widget css */
+  .witr_text_widget_inner p,
+  .about-content span {
+    font-size: 14px !important;
+  }
+  /* blog css */
+  .blog-part {
+    text-align: center;
+  }
+  /* Screenshots css */
+  .dnSlide-main.done {
+    transform: scale(0.7);
+    margin-left: -196px;
+  }
+  .Screenshots-fearm img {
+    width: 256% !important;
+    max-width: 256% !important;
+    left: -98px;
+    top: 49px;
+  }
+  .psylogy-header-top {
+    display: none;
+  }
+}
+/* menu and logo show & hide */
+@media (min-width: 10px) and (max-width: 991px) {
+  .mobile-menu {
+    display: block !important;
+  }
+  .mobile_logo_area {
+    display: block !important;
+    background: #e0a067;
+  }
+  .psylogy-main-menu {
+    display: none !important;
+  }
+  .d_md_none {
+    display: none !important;
+  }
+  .em-feature {
+    margin-bottom: 20px;
+  }
+  .single_counter {
+    margin-bottom: 20px;
+  }
+}
+@media (min-width: 10px) and (max-width: 991px) {
+  .text_m_right {
+    text-align: right !important;
+  }
+  .text_m_left {
+    text-align: right !important;
+  }
+  .menu_18.top-address p span {
+    font-size: 13px;
+  }
+  .footer-top-inner p {
+    width: 85%;
+  }
+  .witr_joined .witr_con_btn2 .w_btn2 {
+    position: inherit;
+    width: 100%;
+  }
+}
+
+@media (min-width: 570px) and (max-width: 767px) {
+  .text_s_center {
+    text-align: center !important;
+  }
+  .text_s_right {
+    text-align: right !important;
+  }
+  .text_s_left {
+    text-align: right !important;
+  }
+  .footer-top-inner p {
+    width: 95%;
+  }
+}
+@media (min-width: 10px) and (max-width: 570px) {
+  .psylogy-header-top {
+    display: none;
+  }
+}
