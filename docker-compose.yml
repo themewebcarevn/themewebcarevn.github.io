@@ -1,0 +1,21 @@
+services:
+  web:
+    image: nginx:alpine
+    ports:
+      - "8081:8081"
+      - "8082:8082"
+      - "8083:8083"
+      - "8084:8084"
+      - "8085:8085"
+      - "8086:8086"
+      - "8087:8087"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./ecomus:/var/www/ecomus:ro
+      - ./lawfirm:/var/www/lawfirm:ro
+      - ./tour:/var/www/tour:ro
+      - ./lawful:/var/www/lawful:ro
+      - ./psylogy:/var/www/psylogy:ro
+      - ./lawride:/var/www/lawride:ro
+      - ./law-firm:/var/www/law-firm:ro
+    restart: unless-stopped
