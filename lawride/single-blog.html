@@ -1,89 +1,671 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'">
-    <title>Page not found &middot; GitHub Pages</title>
-    <style type="text/css" media="screen">
-      body {
-        background-color: #f1f1f1;
-        margin: 0;
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+<html lang="vi">
 
-      .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Lawride Lawyer - Bài viết</title>
+	<link rel="icon" href="img/Fevicon.png" type="image/png">
 
-      a { color: #4183c4; text-decoration: none; }
-      a:hover { text-decoration: underline; }
+  <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="vendors/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="vendors/themify-icons/themify-icons.css">
+  <link rel="stylesheet" href="vendors/linericon/style.css">
+  <link rel="stylesheet" href="vendors/owl-carousel/owl.theme.default.min.css">
+  <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
+  <link rel="stylesheet" href="vendors/Magnific-Popup/magnific-popup.css">
 
-      h1 { width: 800px; position:relative; left: -100px; letter-spacing: -1px; line-height: 60px; font-size: 60px; font-weight: 100; margin: 0px 0 50px 0; text-shadow: 0 1px 0 #fff; }
-      p { color: rgba(0, 0, 0, 0.5); margin: 20px 0; line-height: 1.6; }
-
-      ul { list-style: none; margin: 25px 0; padding: 0; }
-      li { display: table-cell; font-weight: bold; width: 1%; }
-
-      .logo { display: inline-block; margin-top: 35px; }
-      .logo-img-2x { display: none; }
-      @media
-      only screen and (-webkit-min-device-pixel-ratio: 2),
-      only screen and (   min--moz-device-pixel-ratio: 2),
-      only screen and (     -o-min-device-pixel-ratio: 2/1),
-      only screen and (        min-device-pixel-ratio: 2),
-      only screen and (                min-resolution: 192dpi),
-      only screen and (                min-resolution: 2dppx) {
-        .logo-img-1x { display: none; }
-        .logo-img-2x { display: inline-block; }
-      }
-
-      #suggestions {
-        margin-top: 35px;
-        color: #ccc;
-      }
-      #suggestions a {
-        color: #666666;
-        font-weight: 200;
-        font-size: 14px;
-        margin: 0 10px;
-      }
-
-    </style>
-  </head>
-  <body>
-
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!--================ Header Top Area Start =================-->
+  <section class="header-top d-none d-sm-block">
     <div class="container">
-
-      <h1>404</h1>
-      <p><strong>File not found</strong></p>
-
-      <p>
-        The site configured at this address does not
-        contain the requested file.
-      </p>
-
-      <p>
-        If this is your site, make sure that the filename case matches the URL
-        as well as any file permissions.<br>
-        For root URLs (like <code>http://example.com/</code>) you must provide an
-        <code>index.html</code> file.
-      </p>
-
-      <p>
-        <a href="https://help.github.com/pages/">Read the full documentation</a>
-        for more information about using <strong>GitHub Pages</strong>.
-      </p>
-
-      <div id="suggestions">
-        <a href="https://githubstatus.com">GitHub Status</a> &mdash;
-        <a href="https://twitter.com/githubstatus">@githubstatus</a>
+      <div class="d-sm-flex justify-content-between">
+        <ul class="header-top__info mb-2 mb-sm-0">
+          <li><a href="tel:+01432152323"><span class="align-middle"><i class="ti-mobile"></i></span>+014 321 523 23</a></li>
+          <li><a href="mailto:info@example.com"><span class="align-middle"><i class="ti-email"></i></span>info@example.com</a></li>
+        </ul>
+        <ul class="header-top__social">
+          <li><a href="#"><i class="ti-facebook"></i></a></li>
+          <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
+          <li><a href="#"><i class="ti-instagram"></i></a></li>
+          <li><a href="#"><i class="ti-skype"></i></a></li>
+        </ul>
       </div>
-
-      <a href="/" class="logo logo-img-1x">
-        <img width="32" height="32" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpFMTZCRDY3REIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpFMTZCRDY3RUIzRjAxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdCQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjdDQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+SM9MCAAAA+5JREFUeNrEV11Ik1EY3s4+ddOp29Q5b0opCgKFsoKoi5Kg6CIhuwi6zLJLoYLopq4qsKKgi4i6CYIoU/q5iDAKs6syoS76IRWtyJ+p7cdt7sf1PGOD+e0c3dygAx/67ZzzPM95/877GYdHRg3ZjMXFxepQKNS6sLCwJxqNNuFpiMfjVs4ZjUa/pmmjeD6VlJS8NpvNT4QQ7mxwjSsJiEQim/1+/9lgMHgIr5ohuxG1WCw9Vqv1clFR0dCqBODElV6v90ogEDjGdYbVjXhpaendioqK07CIR7ZAqE49PT09BPL2PMgTByQGsYiZlQD4uMXtdr+JxWINhgINYhGT2MsKgMrm2dnZXgRXhaHAg5jEJodUAHxux4LudHJE9RdEdA+i3Juz7bGHe4mhE9FNrgwBCLirMFV9Okh5eflFh8PR5nK5nDabrR2BNJlKO0T35+Li4n4+/J+/JQCxhmu5h3uJoXNHPbmWZAHMshWB8l5/ipqammaAf0zPDDx1ONV3vurdidqwAQL+pEc8sLcAe1CCvQ3YHxIW8Pl85xSWNC1hADDIv0rIE/o4J0k3kww4xSlwIhcq3EFFOm7KN/hUGOQkt0CFa5WpNJlMvxBEz/IVQAxg/ZRZl9wiHA63yDYieM7DnLP5CiAGsC7I5sgtYKJGWe2A8seFqgFJrJjEPY1Cn3pJ8/9W1e5VWsFDTEmFrBcoDhZJEQkXuhICMyKpjhahqN21hRYATKfUOlDmkygrR4o4C0VOLGJKrOITKB4jijzdXygBKixyC5TDQdnk/Pz8qRw6oOWGlsTKGOQW6OH6FBWsyePxdOXLTgxiyebILZCjz+GLgMIKnXNzc49YMlcRdHXcSwxFVgTInQhC9G33UhNoJLuqq6t345p9y3eUy8OTk5PjAHuI9uo4b07FBaOhsu0A4Unc+T1TU1Nj3KsSSE5yJ65jqF2DDd8QqWYmAZrIM2VlZTdnZmb6AbpdV9V6ec9znf5Q7HjYumdRE0JOp3MjitO4SFa+cZz8Umqe3TCbSLvdfkR/kWDdNQl5InuTcysOcpFT35ZrbBxx4p3JAHlZVVW1D/634VRt+FvLBgK/v5LV9WS+10xMTEwtRw7XvqOL+e2Q8V3AYIOIAXQ26/heWVnZCVfcyKHg2CBgTpmPmjYM8l24GyaUHyaIh7XwfR9ErE8qHoDfn2LTNAVC0HX6MFcBIP8Bi+6F6cdW/DICkANRfx99fEYFQ7Nph5i/uQiA214gno7K+guhaiKg9gC62+M8eR7XsBsYJ4ilam60Fb7r7uAj8wFyuwM1oIOWgfmDy6RXEEQzJMPe23DXrVS7rtyD3Df8z/FPgAEAzWU5Ku59ZAUAAAAASUVORK5CYII=">
-      </a>
-
-      <a href="/" class="logo logo-img-2x">
-        <img width="32" height="32" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpEQUM1QkUxRUI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpEQUM1QkUxRkI0MUMxMUUyQUQzREIxQzRENUFFNUM5NiI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUxNkJENjdGQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUxNkJENjgwQjNGMDExRTJBRDNEQjFDNEQ1QUU1Qzk2Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+hfPRaQAAB6lJREFUeNrsW2mM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">
-      </a>
     </div>
-  </body>
+  </section>
+  <!--================ Header Top Area end =================-->
+
+  <!--================ Header Menu Area start =================-->
+  <header class="header_area">
+    <div class="main_menu">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container box_1620">
+          <a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+
+          <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+            <ul class="nav navbar-nav menu_nav justify-content-end">
+              <li class="nav-item"><a class="nav-link" href="index.html">Trang chủ</a></li> 
+              <li class="nav-item"><a class="nav-link" href="about.html">Giới thiệu</a></li> 
+              <li class="nav-item"><a class="nav-link" href="services.html">Dịch vụ</a>
+              <li class="nav-item active submenu dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                  aria-expanded="false">Trang</a>
+                <ul class="dropdown-menu">
+                  <li class="nav-item"><a class="nav-link" href="blog.html">Tin tức</a></li>
+                  <li class="nav-item"><a class="nav-link" href="single-blog.html">Chi tiết bài viết</a></li>
+                </ul>
+							</li>
+              <li class="nav-item"><a class="nav-link" href="contact.html">Liên hệ</a></li>
+            </ul>
+          </div> 
+        </div>
+      </nav>
+    </div>
+  </header>
+  <!--================Header Menu Area =================-->
+
+  <!--================ Hero sm Banner start =================-->      
+  <section class="hero-banner hero-banner--sm">
+    <div class="hero-banner__content text-center">
+      <h1>Chi tiết bài viết</h1>
+      <nav aria-label="breadcrumb" class="banner-breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Chi tiết bài viết</li>
+        </ol>
+      </nav>
+    </div>
+  </section>
+  <!--================ Hero sm Banner end =================-->
+
+
+  <!--================Blog Area =================-->
+	<section class="blog_area single-post-area section-margin">
+			<div class="container">
+					<div class="row">
+							<div class="col-lg-8 posts-list">
+									<div class="single-post row">
+											<div class="col-lg-12">
+													<div class="feature-img">
+															<img class="img-fluid" src="img/blog/feature-img1.jpg" alt="">
+													</div>
+											</div>
+											<div class="col-lg-3  col-md-3">
+													<div class="blog_info text-right">
+															<div class="post_tag">
+																	<a href="#">Tư vấn,</a>
+																	<a class="active" href="#">Công nghệ,</a>
+																	<a href="#">Chính sách,</a>
+																	<a href="#">Đời sống</a>
+															</div>
+															<ul class="blog_meta list">
+																	<li>
+																			<a href="#">Nguyễn Minh
+																					<i class="lnr lnr-user"></i>
+																			</a>
+																	</li>
+																	<li>
+																			<a href="#">12/12/2026
+																					<i class="lnr lnr-calendar-full"></i>
+																			</a>
+																	</li>
+																	<li>
+																			<a href="#">1,2 triệu lượt xem
+																					<i class="lnr lnr-eye"></i>
+																			</a>
+																	</li>
+																	<li>
+																			<a href="#">06 bình luận
+																					<i class="lnr lnr-bubble"></i>
+																			</a>
+																	</li>
+															</ul>
+															<ul class="social-links">
+																	<li>
+																			<a href="#">
+																					<i class="fab fa-facebook-f"></i>
+																			</a>
+																	</li>
+																	<li>
+																			<a href="#">
+																				<i class="fab fa-twitter"></i>																				
+																			</a>
+																	</li>
+																	<li>
+																			<a href="#">
+																				<i class="fab fa-github"></i>																				
+																			</a>
+																	</li>
+																	<li>
+																			<a href="#">
+																				<i class="fab fa-behance"></i>																				
+																			</a>
+																	</li>
+															</ul>
+													</div>
+											</div>
+											<div class="col-lg-9 col-md-9 blog_details">
+													<h2>Những lưu ý khi ký hợp đồng dịch vụ</h2>
+													<p class="excert">
+															MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money
+															on boot camp when you can get the MCSE study materials yourself at a fraction.
+													</p>
+													<p>
+															Boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot
+															camp when you can get the MCSE study materials yourself at a fraction of the camp price.
+															However, who has the willpower to actually sit through a self-imposed MCSE training. who
+															has the willpower to actually sit through a self-imposed
+													</p>
+													<p>
+															Boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot
+															camp when you can get the MCSE study materials yourself at a fraction of the camp price.
+															However, who has the willpower to actually sit through a self-imposed MCSE training. who
+															has the willpower to actually sit through a self-imposed
+													</p>
+											</div>
+											<div class="col-lg-12">
+													<div class="quotes">
+															MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money
+															on boot camp when you can get the MCSE study materials yourself at a fraction of the camp
+															price. However, who has the willpower to actually sit through a self-imposed MCSE training.
+													</div>
+													<div class="row">
+															<div class="col-6">
+																	<img class="img-fluid" src="img/blog/post-img1.jpg" alt="">
+															</div>
+															<div class="col-6">
+																	<img class="img-fluid" src="img/blog/post-img2.jpg" alt="">
+															</div>
+															<div class="col-lg-12 mt-4">
+																	<p>
+																			MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money
+																			on boot camp when you can get the MCSE study materials yourself at a fraction of
+																			the camp price. However, who has the willpower.
+																	</p>
+																	<p>
+																			MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money
+																			on boot camp when you can get the MCSE study materials yourself at a fraction of
+																			the camp price. However, who has the willpower.
+																	</p>
+															</div>
+													</div>
+											</div>
+									</div>
+									<div class="navigation-area">
+											<div class="row">
+													<div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
+															<div class="thumb">
+																	<a href="#">
+																			<img class="img-fluid" src="img/blog/prev.jpg" alt="">
+																	</a>
+															</div>
+															<div class="arrow">
+																	<a href="#">
+																			<span class="lnr text-white lnr-arrow-left"></span>
+																	</a>
+															</div>
+															<div class="detials">
+																	<p>Bài trước</p>
+																	<a href="#">
+																			<h4>Giải quyết tranh chấp hợp đồng</h4>
+																	</a>
+															</div>
+													</div>
+													<div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
+															<div class="detials">
+																	<p>Bài sau</p>
+																	<a href="#">
+																			<h4>Tư vấn pháp lý ban đầu gồm những gì</h4>
+																	</a>
+															</div>
+															<div class="arrow">
+																	<a href="#">
+																			<span class="lnr text-white lnr-arrow-right"></span>
+																	</a>
+															</div>
+															<div class="thumb">
+																	<a href="#">
+																			<img class="img-fluid" src="img/blog/next.jpg" alt="">
+																	</a>
+															</div>
+													</div>
+											</div>
+									</div>
+									<div class="comments-area">
+											<h4>05 bình luận</h4>
+											<div class="comment-list">
+													<div class="single-comment justify-content-between d-flex">
+															<div class="user justify-content-between d-flex">
+																	<div class="thumb">
+																			<img src="img/blog/c1.jpg" alt="">
+																	</div>
+																	<div class="desc">
+																			<h5>
+																					<a href="#">Nguyễn An</a>
+																			</h5>
+																			<p class="date">04/12/2026 lúc 15:12 </p>
+																			<p class="comment">
+																					Thông tin rất hữu ích cho người lần đầu ký hợp đồng dịch vụ.
+																			</p>
+																	</div>
+															</div>
+															<div class="Trả lời-btn">
+																	<a href="#" class="btn-Trả lời text-uppercase">Trả lời</a>
+															</div>
+													</div>
+											</div>
+											<div class="comment-list left-padding">
+													<div class="single-comment justify-content-between d-flex">
+															<div class="user justify-content-between d-flex">
+																	<div class="thumb">
+																			<img src="img/blog/c2.jpg" alt="">
+																	</div>
+																	<div class="desc">
+																			<h5>
+																					<a href="#">Trần Hương</a>
+																			</h5>
+																			<p class="date">04/12/2026 lúc 15:12 </p>
+																			<p class="comment">
+																					Thông tin rất hữu ích cho người lần đầu ký hợp đồng dịch vụ.
+																			</p>
+																	</div>
+															</div>
+															<div class="Trả lời-btn">
+																	<a href="#" class="btn-Trả lời text-uppercase">Trả lời</a>
+															</div>
+													</div>
+											</div>
+											<div class="comment-list left-padding">
+													<div class="single-comment justify-content-between d-flex">
+															<div class="user justify-content-between d-flex">
+																	<div class="thumb">
+																			<img src="img/blog/c3.jpg" alt="">
+																	</div>
+																	<div class="desc">
+																			<h5>
+																					<a href="#">Lê Minh</a>
+																			</h5>
+																			<p class="date">04/12/2026 lúc 15:12 </p>
+																			<p class="comment">
+																					Thông tin rất hữu ích cho người lần đầu ký hợp đồng dịch vụ.
+																			</p>
+																	</div>
+															</div>
+															<div class="Trả lời-btn">
+																	<a href="#" class="btn-Trả lời text-uppercase">Trả lời</a>
+															</div>
+													</div>
+											</div>
+											<div class="comment-list">
+													<div class="single-comment justify-content-between d-flex">
+															<div class="user justify-content-between d-flex">
+																	<div class="thumb">
+																			<img src="img/blog/c4.jpg" alt="">
+																	</div>
+																	<div class="desc">
+																			<h5>
+																					<a href="#">Phạm Linh</a>
+																			</h5>
+																			<p class="date">04/12/2026 lúc 15:12 </p>
+																			<p class="comment">
+																					Thông tin rất hữu ích cho người lần đầu ký hợp đồng dịch vụ.
+																			</p>
+																	</div>
+															</div>
+															<div class="Trả lời-btn">
+																	<a href="#" class="btn-Trả lời text-uppercase">Trả lời</a>
+															</div>
+													</div>
+											</div>
+											<div class="comment-list">
+													<div class="single-comment justify-content-between d-flex">
+															<div class="user justify-content-between d-flex">
+																	<div class="thumb">
+																			<img src="img/blog/c5.jpg" alt="">
+																	</div>
+																	<div class="desc">
+																			<h5>
+																					<a href="#">Hoàng Nam</a>
+																			</h5>
+																			<p class="date">04/12/2026 lúc 15:12 </p>
+																			<p class="comment">
+																					Thông tin rất hữu ích cho người lần đầu ký hợp đồng dịch vụ.
+																			</p>
+																	</div>
+															</div>
+															<div class="Trả lời-btn">
+																	<a href="#" class="btn-Trả lời text-uppercase">Trả lời</a>
+															</div>
+													</div>
+											</div>
+									</div>
+									<div class="comment-form">
+											<h4>Để lại phản hồi</h4>
+											<form>
+													<div class="form-group form-inline">
+															<div class="form-group col-lg-6 col-md-6 name">
+																	<input type="text" class="form-control" id="name" placeholder="Nhập họ tên" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nhập họ tên'">
+															</div>
+															<div class="form-group col-lg-6 col-md-6 email">
+																	<input type="email" class="form-control" id="email" placeholder="Nhập địa chỉ email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nhập địa chỉ email'">
+															</div>
+													</div>
+													<div class="form-group">
+															<input type="text" class="form-control" id="subject" placeholder="Chủ đề" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Chủ đề'">
+													</div>
+													<div class="form-group">
+															<textarea class="form-control mb-10" rows="5" name="message" placeholder="Nội dung" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Nội dung'"
+																	required=""></textarea>
+													</div>
+													<a href="#" class="button button-postComment">Gửi bình luận</a>
+											</form>
+									</div>
+							</div>
+							<div class="col-lg-4">
+									<div class="blog_right_sidebar">
+											<aside class="single_sidebar_widget search_widget">
+													<div class="input-group">
+															<input type="text" class="form-control" placeholder="Tìm bài viết">
+															<span class="input-group-btn">
+																	<button class="btn btn-default" type="button">
+																			<i class="lnr lnr-magnifier"></i>
+																	</button>
+															</span>
+													</div>
+													<!-- /input-group -->
+													<div class="br"></div>
+											</aside>
+											<aside class="single_sidebar_widget author_widget">
+													<img class="author_img rounded-circle" src="img/blog/author.png" alt="">
+													<h4>Trần Minh</h4>
+													<p>Biên tập viên pháp lý</p>
+													<div class="social_icon">
+                              <a href="#">
+                                  <i class="fab fa-facebook-f"></i>
+                              </a>
+                              <a href="#">
+                                  <i class="fab fa-twitter"></i>
+                              </a>
+                              <a href="#">
+                                  <i class="fab fa-github"></i>
+                              </a>
+                              <a href="#">
+                                <i class="fab fa-behance"></i>
+                              </a>
+                          </div>
+													<p>Tác giả phụ trách các bài viết phân tích tình huống pháp lý thường gặp, giúp khách hàng chuẩn bị tốt hơn trước khi làm việc với luật sư.
+													</p>
+													<div class="br"></div>
+											</aside>
+											<aside class="single_sidebar_widget popular_post_widget">
+													<h3 class="widget_title">Bài viết nổi bật</h3>
+													<div class="media post_item">
+															<img src="img/blog/popular-post/post1.jpg" alt="post">
+															<div class="media-body">
+																	<a href="single-blog.html">
+																			<h3>Giải quyết tranh chấp hợp đồng</h3>
+																	</a>
+																	<p>2 giờ trước</p>
+															</div>
+													</div>
+													<div class="media post_item">
+															<img src="img/blog/popular-post/post2.jpg" alt="post">
+															<div class="media-body">
+																	<a href="single-blog.html">
+																			<h3>Quyền lợi người lao động</h3>
+																	</a>
+																	<p>2 giờ trước</p>
+															</div>
+													</div>
+													<div class="media post_item">
+															<img src="img/blog/popular-post/post3.jpg" alt="post">
+															<div class="media-body">
+																	<a href="single-blog.html">
+																			<h3>Khi nào cần luật sư đại diện</h3>
+																	</a>
+																	<p>3 giờ trước</p>
+															</div>
+													</div>
+													<div class="media post_item">
+															<img src="img/blog/popular-post/post4.jpg" alt="post">
+															<div class="media-body">
+																	<a href="single-blog.html">
+																			<h3>Hồ sơ khởi kiện dân sự</h3>
+																	</a>
+																	<p>1 giờ trước</p>
+															</div>
+													</div>
+													<div class="br"></div>
+											</aside>
+											<aside class="single_sidebar_widget ads_widget">
+													<a href="#">
+															<img class="img-fluid" src="img/blog/add.jpg" alt="">
+													</a>
+													<div class="br"></div>
+											</aside>
+											<aside class="single_sidebar_widget post_category_widget">
+													<h4 class="widget_title">Danh mục bài viết</h4>
+													<ul class="list cat-list">
+															<li>
+																	<a href="#" class="d-flex justify-content-between">
+																			<p>Công nghệ</p>
+																			<p>37</p>
+																	</a>
+															</li>
+															<li>
+																	<a href="#" class="d-flex justify-content-between">
+																			<p>Đời sống</p>
+																			<p>24</p>
+																	</a>
+															</li>
+															<li>
+																	<a href="#" class="d-flex justify-content-between">
+																			<p>Doanh nghiệp</p>
+																			<p>59</p>
+																	</a>
+															</li>
+															<li>
+																	<a href="#" class="d-flex justify-content-between">
+																			<p>Sở hữu trí tuệ</p>
+																			<p>29</p>
+																	</a>
+															</li>
+															<li>
+																	<a href="#" class="d-flex justify-content-between">
+																			<p>Tư vấn</p>
+																			<p>15</p>
+																	</a>
+															</li>
+															<li>
+																	<a href="#" class="d-flex justify-content-between">
+																			<p>Bất động sản</p>
+																			<p>09</p>
+																	</a>
+															</li>
+															<li>
+																	<a href="#" class="d-flex justify-content-between">
+																			<p>Tranh tụng</p>
+																			<p>44</p>
+																	</a>
+															</li>
+													</ul>
+													<div class="br"></div>
+											</aside>
+											<aside class="single-sidebar-widget newsletter_widget">
+													<h4 class="widget_title">Bản tin</h4>
+													<p>
+															Nhận bài viết mới và các cập nhật pháp lý quan trọng qua email.
+													</p>
+													<div class="form-group d-flex flex-row">
+															<div class="input-group">
+																	<div class="input-group-prepend">
+																			<div class="input-group-text">
+																					<i class="fa fa-envelope" aria-hidden="true"></i>
+																			</div>
+																	</div>
+																	<input type="text" class="form-control" id="inlineFormInputGroup" placeholder="Nhập địa chỉ email" onfocus="this.placeholder = ''"
+																			onblur="this.placeholder = 'Nhập email'">
+															</div>
+															<a href="#" class="bbtns">Đăng ký</a>
+													</div>
+													<p class="text-bottom">Bạn có thể hủy đăng ký bất cứ lúc nào</p>
+													<div class="br"></div>
+											</aside>
+											<aside class="single-sidebar-widget tag_cloud_widget">
+													<h4 class="widget_title">Thẻ chủ đề</h4>
+													<ul class="list">
+															<li>
+																	<a href="#">Công nghệ</a>
+															</li>
+															<li>
+																	<a href="#">Doanh nghiệp</a>
+															</li>
+															<li>
+																	<a href="#">Bất động sản</a>
+															</li>
+															<li>
+																	<a href="#">Doanh nghiệp</a>
+															</li>
+															<li>
+																	<a href="#">Tư vấn</a>
+															</li>
+															<li>
+																	<a href="#">Công nghệ</a>
+															</li>
+															<li>
+																	<a href="#">Đời sống</a>
+															</li>
+															<li>
+																	<a href="#">Sở hữu trí tuệ</a>
+															</li>
+															<li>
+																	<a href="#">Tranh tụng</a>
+															</li>
+															<li>
+																	<a href="#">Tư vấn</a>
+															</li>
+															<li>
+																	<a href="#">Đời sống</a>
+															</li>
+															<li>
+																	<a href="#">Tranh tụng</a>
+															</li>
+													</ul>
+											</aside>
+									</div>
+							</div>
+					</div>
+			</div>
+	</section>
+	<!--================Blog Area =================-->
+
+
+
+  <!-- ================ start footer Area ================= -->
+  <footer class="footer-area">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3  col-md-6 col-sm-6">
+          <div class="single-footer-widget">
+            <h6>Về chúng tôi</h6>
+            <p>
+              Chúng tôi cung cấp dịch vụ pháp lý rõ ràng, thực tế và tận tâm, giúp khách hàng hiểu đúng quyền lợi của mình trước khi đưa ra quyết định. 
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-6 col-sm-6">
+          <div class="single-footer-widget">
+            <h6>Liên kết</h6>
+            <div class="row">
+              <div class="col">
+                <ul>
+                  <li><a href="#">Trang chủ</a></li>
+                  <li><a href="#">Giới thiệu</a></li>
+                  <li><a href="#">Dịch vụ</a></li>
+                  <li><a href="#">Hồ sơ</a></li>
+                </ul>
+              </div>
+              <div class="col">
+                <ul>
+                  <li><a href="#">Đội ngũ</a></li>
+                  <li><a href="#">Bảng giá</a></li>
+                  <li><a href="#">Tin tức</a></li>
+                  <li><a href="#">Liên hệ</a></li>
+                </ul>
+              </div>										
+            </div>							
+          </div>
+        </div>							
+        <div class="col-lg-3  col-md-6 col-sm-6">
+          <div class="single-footer-widget">
+            <h6>Bản tin</h6>
+            <p>
+              Đăng ký để nhận các cập nhật pháp lý, bài viết chuyên môn và thông tin tư vấn mới nhất từ chúng tôi.									
+            </p>								
+            <div id="mc_embed_signup">
+              <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscription relative">
+                <div class="input-group d-flex flex-row">
+                  <input name="EMAIL" placeholder="Địa chỉ email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Địa chỉ email '" required="" type="email">
+                  <button class="btn bb-btn"><span class="lnr lnr-location"></span></button>		
+                </div>									
+                <div class="mt-10 info"></div>
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3  col-md-6 col-sm-6">
+          <div class="single-footer-widget mail-chimp">
+            <h6 class="mb-20">Hình ảnh</h6>
+            <ul class="instafeed d-flex flex-wrap">
+              <li><img src="img/instagram/i1.jpg" alt=""></li>
+              <li><img src="img/instagram/i2.jpg" alt=""></li>
+              <li><img src="img/instagram/i3.jpg" alt=""></li>
+              <li><img src="img/instagram/i4.jpg" alt=""></li>
+              <li><img src="img/instagram/i5.jpg" alt=""></li>
+              <li><img src="img/instagram/i6.jpg" alt=""></li>
+              <li><img src="img/instagram/i7.jpg" alt=""></li>
+              <li><img src="img/instagram/i8.jpg" alt=""></li>
+            </ul>
+          </div>
+        </div>						
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="container">
+        <div class="row align-items-center">
+          <p class="col-lg-8 col-sm-12 footer-text m-0 text-center text-lg-left">
+
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> Bảo lưu mọi quyền.
+</p>
+          <div class="col-lg-4 col-sm-12 footer-social text-center text-lg-right">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-dribbble"></i></a>
+            <a href="#"><i class="fab fa-behance"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- ================ End footer Area ================= -->
+
+  <script src="vendors/jquery/jquery-3.2.1.min.js"></script>
+  <script src="vendors/bootstrap/bootstrap.bundle.min.js"></script>
+  <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
+  <script src="vendors/Magnific-Popup/jquery.magnific-popup.min.js"></script>
+  <script src="js/jquery.ajaxchimp.min.js"></script>
+  <script src="js/mail-script.js"></script>
+  <script src="js/main.js"></script>
+</body>
+
+
 </html>
